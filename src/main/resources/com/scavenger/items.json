@@ -8263,6 +8263,27 @@
         ]
     },
     {
+        "name": "Cave nightshade",
+        "itemId": 2398,
+        "type": "GROUND_ITEM",
+        "locations": [
+            {
+                "x": 2528,
+                "y": 9415,
+                "plane": 0,
+                "areaLabel": "Skavid Caves",
+                "members": true
+            },
+            {
+                "x": 2530,
+                "y": 9462,
+                "plane": 0,
+                "areaLabel": "Skavid Caves",
+                "members": true
+            }
+        ]
+    },
+    {
         "name": "Chaos rune",
         "itemId": 562,
         "type": "GROUND_ITEM",
@@ -13172,6 +13193,20 @@
                 "y": 3692,
                 "plane": 0,
                 "areaLabel": "Buccaneers' Haven",
+                "members": true
+            }
+        ]
+    },
+    {
+        "name": "Iron spit",
+        "itemId": 7225,
+        "type": "GROUND_ITEM",
+        "locations": [
+            {
+                "x": 2875,
+                "y": 3920,
+                "plane": 0,
+                "areaLabel": "Weiss",
                 "members": true
             }
         ]
