@@ -1,0 +1,21 @@
+.gradle
+build
+.idea/
+.project
+.settings/
+.classpath
+nbactions.xml
+nb-configuration.xml
+nbproject/
+.jdk11/
+
+# Wiki scraper tooling (not part of the plugin build)
+scripts/
+__pycache__/
+*.pyc
+
+# Internal planning docs
+docs/superpowers/
+
+# Test/debug screenshots
+screenshots/

@@ -1,0 +1,52 @@
+plugins {
+	id 'java'
+}
+
+group = 'com.scavenger'
+version = '1.0'
+
+sourceCompatibility = 11
+targetCompatibility = 11
+
+repositories {
+	mavenLocal()
+	maven {
+		url = 'https://repo.runelite.net'
+		content {
+			includeGroupByRegex 'net\\.runelite.*'
+		}
+	}
+	mavenCentral()
+}
+
+def runeLiteVersion = 'latest.release'
+
+dependencies {
+	compileOnly group: 'net.runelite', name: 'client', version: runeLiteVersion
+
+	compileOnly group: 'org.projectlombok', name: 'lombok', version: '1.18.30'
+	annotationProcessor group: 'org.projectlombok', name: 'lombok', version: '1.18.30'
+
+	testImplementation group: 'net.runelite', name: 'client', version: runeLiteVersion
+	testImplementation group: 'junit', name: 'junit', version: '4.12'
+	testImplementation group: 'net.runelite', name: 'jshell', version: runeLiteVersion
+}
+
+def pluginMainClass = 'com.scavenger.ScavengerPluginTest'
+
+tasks.register('run', JavaExec) {
+	mainClass = pluginMainClass
+	classpath = sourceSets.test.runtimeClasspath
+	jvmArgs '-ea'
+	args '--developer-mode', '--debug'
+}
+
+compileJava {
+	options.release.set(11)
+}
+
+tasks.named('jar', Jar) {
+	manifest {
+		attributes 'Main-Class': pluginMainClass
+	}
+}
