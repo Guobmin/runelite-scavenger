@@ -11,9 +11,9 @@ import net.runelite.api.Player;
 import net.runelite.api.Point;
 import net.runelite.api.coords.LocalPoint;
 import net.runelite.api.coords.WorldPoint;
+import net.runelite.api.gameval.InterfaceID;
 import net.runelite.api.gameval.VarbitID;
 import net.runelite.api.widgets.Widget;
-import net.runelite.api.widgets.WidgetInfo;
 import net.runelite.client.ui.overlay.Overlay;
 import net.runelite.client.ui.overlay.OverlayLayer;
 import net.runelite.client.ui.overlay.OverlayPosition;
@@ -147,11 +147,11 @@ class ScavengerMinimapOverlay extends Overlay
 		{
 			if (client.getVarbitValue(VarbitID.RESIZABLE_STONE_ARRANGEMENT) == 1)
 			{
-				return client.getWidget(WidgetInfo.RESIZABLE_MINIMAP_DRAW_AREA);
+				return client.getWidget(InterfaceID.ToplevelPreEoc.MINIMAP);
 			}
-			return client.getWidget(WidgetInfo.RESIZABLE_MINIMAP_STONES_DRAW_AREA);
+			return client.getWidget(InterfaceID.ToplevelOsrsStretch.MINIMAP);
 		}
-		return client.getWidget(WidgetInfo.FIXED_VIEWPORT_MINIMAP_DRAW_AREA);
+		return client.getWidget(InterfaceID.Toplevel.MINIMAP);
 	}
 
 	static int[] directionOffset(int dx, int dy, int distance)
