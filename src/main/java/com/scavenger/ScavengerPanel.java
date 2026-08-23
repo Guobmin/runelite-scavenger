@@ -20,6 +20,7 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
+import javax.swing.JTextPane;
 import javax.swing.ScrollPaneConstants;
 import javax.swing.SwingUtilities;
 import javax.swing.Timer;
@@ -27,6 +28,10 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.event.DocumentEvent;
 import javax.swing.event.DocumentListener;
 import javax.swing.event.ListSelectionListener;
+import javax.swing.text.BadLocationException;
+import javax.swing.text.SimpleAttributeSet;
+import javax.swing.text.StyleConstants;
+import javax.swing.text.StyledDocument;
 import net.runelite.client.ui.ColorScheme;
 import net.runelite.client.ui.FontManager;
 import net.runelite.client.ui.PluginPanel;
@@ -38,8 +43,10 @@ class ScavengerPanel extends PluginPanel
 	private final DefaultListModel<ItemSpawn> listModel = new DefaultListModel<>();
 	private final Timer refreshTimer;
 
+	private static final String WILDERNESS = "Wilderness";
+
 	private final JTextArea targetName = cardLine(FontManager.getRunescapeBoldFont());
-	private final JTextArea targetLocation = cardLine(FontManager.getRunescapeFont());
+	private final JTextPane targetLocation = richCardLine(FontManager.getRunescapeFont());
 	private final JTextArea targetFloor = cardLine(FontManager.getRunescapeFont());
 	private final JTextArea requirementText = cardLine(FontManager.getRunescapeFont());
 
@@ -219,6 +226,60 @@ class ScavengerPanel extends PluginPanel
 		return area;
 	}
 
+	// JTextPane sibling of cardLine()'s JTextArea, used only where a line
+	// needs a differently-colored substring (e.g. highlighting "Wilderness")
+	// - plain JTextArea can't mix colors within one line.
+	private static JTextPane richCardLine(Font font)
+	{
+		JTextPane pane = new JTextPane();
+		pane.setEditable(false);
+		pane.setFocusable(false);
+		pane.setOpaque(false);
+		pane.setFont(font);
+		pane.setForeground(ColorScheme.TEXT_COLOR);
+		pane.setBorder(null);
+		return pane;
+	}
+
+	// Renders text into a JTextPane, coloring every occurrence of `highlight`
+	// (e.g. "Wilderness") in `highlightColor` and the rest in the pane's
+	// normal text color.
+	private static void setHighlightedText(JTextPane pane, String text, String highlight, Color highlightColor)
+	{
+		Font font = pane.getFont();
+		SimpleAttributeSet normal = textStyle(font, ColorScheme.TEXT_COLOR);
+		SimpleAttributeSet highlighted = textStyle(font, highlightColor);
+
+		StyledDocument doc = pane.getStyledDocument();
+		try
+		{
+			doc.remove(0, doc.getLength());
+			int from = 0;
+			int idx;
+			while ((idx = text.indexOf(highlight, from)) != -1)
+			{
+				doc.insertString(doc.getLength(), text.substring(from, idx), normal);
+				doc.insertString(doc.getLength(), highlight, highlighted);
+				from = idx + highlight.length();
+			}
+			doc.insertString(doc.getLength(), text.substring(from), normal);
+		}
+		catch (BadLocationException e)
+		{
+			throw new AssertionError(e);
+		}
+	}
+
+	private static SimpleAttributeSet textStyle(Font font, Color color)
+	{
+		SimpleAttributeSet attrs = new SimpleAttributeSet();
+		StyleConstants.setForeground(attrs, color);
+		StyleConstants.setFontFamily(attrs, font.getFamily());
+		StyleConstants.setFontSize(attrs, font.getSize());
+		StyleConstants.setBold(attrs, font.isBold());
+		return attrs;
+	}
+
 	private static void forceTextColor(Container root, Color color)
 	{
 		for (Component c : root.getComponents())
@@ -274,18 +335,23 @@ class ScavengerPanel extends PluginPanel
 			return;
 		}
 
-		targetLocation.setText("(" + result.location.areaLabel + ")");
+		setHighlightedText(targetLocation, "(" + result.location.areaLabel + ")", WILDERNESS, ColorScheme.PROGRESS_ERROR_COLOR);
 		targetFloor.setText(result.samePlane ? "" : "- different floor");
 
-		if (result.location.requirement == null)
-		{
-			requirementText.setForeground(ColorScheme.PROGRESS_COMPLETE_COLOR);
-			requirementText.setText("No requirements needed.");
-		}
-		else
+		if (result.location.requirement != null)
 		{
 			requirementText.setForeground(ColorScheme.BRAND_ORANGE);
 			requirementText.setText(result.location.requirement);
+		}
+		else if (result.location.areaLabel.contains(WILDERNESS))
+		{
+			requirementText.setForeground(ColorScheme.PROGRESS_ERROR_COLOR);
+			requirementText.setText("Requires entering the Wilderness");
+		}
+		else
+		{
+			requirementText.setForeground(ColorScheme.PROGRESS_COMPLETE_COLOR);
+			requirementText.setText("No requirements needed.");
 		}
 	}
 
