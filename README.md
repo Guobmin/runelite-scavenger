@@ -58,7 +58,11 @@ API to enumerate every item page with known spawn coordinates.
 
 ## Help and issues
 
-Found a bug or have a suggestion? [Open an issue](https://github.com/guobmin/runelite-scavenger/issues/new).
+Spawn data is scraped from the OSRS Wiki and hasn't been rigorously tested
+against every item in-game yet, so some spawns may be missing or wrong.
+
+Found a bug, a missing item, or have a suggestion?
+[Open an issue](https://github.com/guobmin/runelite-scavenger/issues/new).
 
 ## License
 
