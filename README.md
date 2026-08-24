@@ -28,6 +28,28 @@ type an item name, and select it from the results. The minimap arrow, world
 map marker, and world tile highlight will all point to the nearest known
 spawn. Click "Stop Tracking" to clear it.
 
+## Screenshots
+
+Searching for an item and tracking its nearest spawn:
+
+![Search panel](screenshots/panel-overview.png)
+
+Minimap arrow pointing toward the nearest spawn:
+
+![Minimap arrow](screenshots/minimap-arrow.png)
+
+World tile highlight on the spawn location:
+
+![World tile highlight](screenshots/world-tile-highlight.png)
+
+Skill/quest requirements are called out in orange:
+
+![Skill requirement](screenshots/skill-requirement.png)
+
+Wilderness spawns are flagged in red:
+
+![Wilderness warning](screenshots/wilderness-warning.png)
+
 ## Building from source (development)
 
 **Prerequisites:**
