@@ -15,6 +15,12 @@ a minimap arrow, a world map arrow, and a world tile highlight.
   members-only spawns (**Account type** setting in the plugin config)
 - Spawn data for 370+ items sourced from the OSRS Wiki
 
+## Installing
+
+Scavenger is available on the [RuneLite Plugin Hub](https://runelite.net/plugin-hub).
+In the RuneLite client, open the Plugin Hub (the puzzle-piece icon in the
+sidebar), search for "Scavenger", and click install.
+
 ## Using Scavenger
 
 Click the Scavenger icon in the RuneLite sidebar to open the search panel,
@@ -22,10 +28,7 @@ type an item name, and select it from the results. The minimap arrow, world
 map marker, and world tile highlight will all point to the nearest known
 spawn. Click "Stop Tracking" to clear it.
 
-## Running from source (unpublished build)
-
-This plugin isn't on the Plugin Hub yet, so it's run from source via Gradle
-against a local RuneLite developer client.
+## Building from source (development)
 
 **Prerequisites:**
 
