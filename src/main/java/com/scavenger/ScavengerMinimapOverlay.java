@@ -55,8 +55,7 @@ class ScavengerMinimapOverlay extends Overlay
 			return null;
 		}
 
-		SpawnLocation loc = result.location;
-		WorldPoint worldPoint = new WorldPoint(loc.x, loc.y, loc.plane);
+		WorldPoint worldPoint = result.navTarget;
 		LocalPoint targetLocal = LocalPoint.fromWorld(client.getTopLevelWorldView(), worldPoint);
 		Point minimapPoint = targetLocal == null ? null : Perspective.localToMinimap(client, targetLocal);
 

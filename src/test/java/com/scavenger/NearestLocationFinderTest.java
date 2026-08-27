@@ -22,6 +22,15 @@ public class NearestLocationFinderTest
 		return s;
 	}
 
+	private static SpawnLocation.Entrance entrance(int x, int y, int plane)
+	{
+		SpawnLocation.Entrance e = new SpawnLocation.Entrance();
+		e.x = x;
+		e.y = y;
+		e.plane = plane;
+		return e;
+	}
+
 	@Test
 	public void picksClosestOnSamePlane()
 	{
@@ -88,5 +97,42 @@ public class NearestLocationFinderTest
 
 		assertNull(NearestLocationFinder.findNearest(player, Collections.emptyList()));
 		assertNull(NearestLocationFinder.findNearest(player, null));
+	}
+
+	@Test
+	public void navTargetIsRealSpawnWhenNoEntrance()
+	{
+		SpawnLocation loc = spawn(3210, 3210, 0);
+		WorldPoint player = new WorldPoint(3200, 3200, 0);
+
+		NearestLocationFinder.Result result = NearestLocationFinder.findNearest(player, Collections.singletonList(loc));
+
+		assertEquals(new WorldPoint(3210, 3210, 0), result.navTarget);
+	}
+
+	@Test
+	public void navTargetIsEntranceWhenPlayerOutsideSpawnRegion()
+	{
+		// Daeyalt essence mine coordinates - far underground region, well outside
+		// any surface region a player could be standing in.
+		SpawnLocation cave = spawn(3670, 9772, 0);
+		cave.entrance = entrance(3417, 3479, 0);
+		WorldPoint player = new WorldPoint(3200, 3200, 0);
+
+		NearestLocationFinder.Result result = NearestLocationFinder.findNearest(player, Collections.singletonList(cave));
+
+		assertEquals(new WorldPoint(3417, 3479, 0), result.navTarget);
+	}
+
+	@Test
+	public void navTargetIsRealSpawnWhenPlayerAlreadyInsideSpawnRegion()
+	{
+		SpawnLocation cave = spawn(3670, 9772, 0);
+		cave.entrance = entrance(3417, 3479, 0);
+		WorldPoint playerInsideCave = new WorldPoint(3665, 9770, 0);
+
+		NearestLocationFinder.Result result = NearestLocationFinder.findNearest(playerInsideCave, Collections.singletonList(cave));
+
+		assertEquals(new WorldPoint(3670, 9772, 0), result.navTarget);
 	}
 }
