@@ -3,6 +3,7 @@ package com.scavenger;
 import java.awt.Graphics2D;
 import java.awt.Shape;
 import java.util.List;
+import java.util.Set;
 import javax.inject.Inject;
 import net.runelite.api.Client;
 import net.runelite.api.GameObject;
@@ -12,6 +13,7 @@ import net.runelite.api.Tile;
 import net.runelite.api.TileItem;
 import net.runelite.api.coords.LocalPoint;
 import net.runelite.api.coords.WorldPoint;
+import net.runelite.api.gameval.ObjectID;
 import net.runelite.client.ui.overlay.Overlay;
 import net.runelite.client.ui.overlay.OverlayLayer;
 import net.runelite.client.ui.overlay.OverlayPosition;
@@ -19,6 +21,14 @@ import net.runelite.client.ui.overlay.OverlayUtil;
 
 class ScavengerWorldOverlay extends Overlay
 {
+	// Cave entrance tiles (e.g. Edgeville's "trapdoor by a coffin") can stack an
+	// unrelated decorative object on the same tile as the actual trapdoor - the
+	// generic trapdoor ids are reused across dozens of dungeon entrances, so
+	// prefer one of these over whatever the scene's object array returns first.
+	private static final Set<Integer> TRAPDOOR_OBJECT_IDS = Set.of(
+		ObjectID.TRAPDOOR_NONACTIVE, ObjectID.TRAPDOOR, ObjectID.TRAPDOOR_LEVEL1,
+		ObjectID.TRAPDOOR_OPEN, ObjectID.TRAPDOOR_OPEN_LEVEL1);
+
 	private final Client client;
 	private final TargetManager targetManager;
 	private final ScavengerConfig config;
@@ -64,9 +74,19 @@ class ScavengerWorldOverlay extends Overlay
 		// an entrance tile.
 		boolean atEntrance = !worldPoint.equals(new WorldPoint(result.location.x, result.location.y, result.location.plane));
 		ItemSpawn item = targetManager.getActiveItem();
-		Shape highlight = atEntrance || (item != null && item.isObject())
-			? findObjectShape(tile)
-			: findGroundItemShape(client, tile, localPoint, item == null ? -1 : item.itemId);
+		Shape highlight;
+		if (atEntrance)
+		{
+			highlight = findEntranceObjectShape(tile);
+		}
+		else if (item != null && item.isObject())
+		{
+			highlight = findObjectShape(tile);
+		}
+		else
+		{
+			highlight = findGroundItemShape(client, tile, localPoint, item == null ? -1 : item.itemId);
+		}
 
 		if (highlight == null)
 		{
@@ -79,6 +99,28 @@ class ScavengerWorldOverlay extends Overlay
 		}
 
 		return null;
+	}
+
+	private static Shape findEntranceObjectShape(Tile tile)
+	{
+		if (tile == null)
+		{
+			return null;
+		}
+
+		for (GameObject gameObject : tile.getGameObjects())
+		{
+			if (gameObject != null && TRAPDOOR_OBJECT_IDS.contains(gameObject.getId()))
+			{
+				Shape clickbox = gameObject.getClickbox();
+				if (clickbox != null)
+				{
+					return clickbox;
+				}
+			}
+		}
+
+		return findObjectShape(tile);
 	}
 
 	private static Shape findObjectShape(Tile tile)
