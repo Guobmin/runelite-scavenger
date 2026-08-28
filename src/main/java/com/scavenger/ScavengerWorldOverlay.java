@@ -120,6 +120,28 @@ class ScavengerWorldOverlay extends Overlay
 			}
 		}
 
+		// Trapdoors are frequently a GroundObject (or WallObject) rather than a
+		// plain GameObject - the coffin at Edgeville is the GameObject on this
+		// tile, so without this check the loop above finds nothing and falls
+		// straight through to the coffin via findObjectShape's first-match order.
+		if (tile.getWallObject() != null && TRAPDOOR_OBJECT_IDS.contains(tile.getWallObject().getId()))
+		{
+			Shape clickbox = tile.getWallObject().getClickbox();
+			if (clickbox != null)
+			{
+				return clickbox;
+			}
+		}
+
+		if (tile.getGroundObject() != null && TRAPDOOR_OBJECT_IDS.contains(tile.getGroundObject().getId()))
+		{
+			Shape clickbox = tile.getGroundObject().getClickbox();
+			if (clickbox != null)
+			{
+				return clickbox;
+			}
+		}
+
 		return findObjectShape(tile);
 	}
 
