@@ -7,6 +7,7 @@ import javax.inject.Inject;
 import net.runelite.api.Client;
 import net.runelite.api.GameObject;
 import net.runelite.api.Perspective;
+import net.runelite.api.Player;
 import net.runelite.api.Tile;
 import net.runelite.api.TileItem;
 import net.runelite.api.coords.LocalPoint;
@@ -37,22 +38,33 @@ class ScavengerWorldOverlay extends Overlay
 	public java.awt.Dimension render(Graphics2D graphics)
 	{
 		NearestLocationFinder.Result result = targetManager.getActiveResult();
-		if (result == null || !result.samePlane)
+		Player player = client.getLocalPlayer();
+		if (result == null || player == null)
 		{
 			return null;
 		}
 
-		ItemSpawn item = targetManager.getActiveItem();
-		SpawnLocation loc = result.location;
-		WorldPoint worldPoint = new WorldPoint(loc.x, loc.y, loc.plane);
+		WorldPoint worldPoint = result.navTarget;
+		if (worldPoint.getPlane() != player.getWorldLocation().getPlane())
+		{
+			return null;
+		}
+
 		LocalPoint localPoint = LocalPoint.fromWorld(client.getTopLevelWorldView(), worldPoint);
 		if (localPoint == null)
 		{
 			return null;
 		}
 
-		Tile tile = client.getTopLevelWorldView().getScene().getTiles()[loc.plane][localPoint.getSceneX()][localPoint.getSceneY()];
-		Shape highlight = item != null && item.isObject()
+		Tile tile = client.getTopLevelWorldView().getScene().getTiles()[worldPoint.getPlane()][localPoint.getSceneX()][localPoint.getSceneY()];
+
+		// Aiming at the cave entrance rather than the real spawn tile - highlight
+		// whatever door/trapdoor/cave-mouth object sits there, same as Quest
+		// Helper does for its step objects. There's no ground item to look for at
+		// an entrance tile.
+		boolean atEntrance = !worldPoint.equals(new WorldPoint(result.location.x, result.location.y, result.location.plane));
+		ItemSpawn item = targetManager.getActiveItem();
+		Shape highlight = atEntrance || (item != null && item.isObject())
 			? findObjectShape(tile)
 			: findGroundItemShape(client, tile, localPoint, item == null ? -1 : item.itemId);
 
