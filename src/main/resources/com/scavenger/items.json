@@ -101,28 +101,48 @@
                 "y": 9754,
                 "plane": 0,
                 "areaLabel": "Digsite Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3370,
+                    "y": 3428,
+                    "plane": 0
+                }
             },
             {
                 "x": 3350,
                 "y": 9759,
                 "plane": 0,
                 "areaLabel": "Digsite Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3370,
+                    "y": 3428,
+                    "plane": 0
+                }
             },
             {
                 "x": 3364,
                 "y": 9764,
                 "plane": 0,
                 "areaLabel": "Digsite Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3370,
+                    "y": 3428,
+                    "plane": 0
+                }
             },
             {
                 "x": 3368,
                 "y": 9770,
                 "plane": 0,
                 "areaLabel": "Digsite Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3370,
+                    "y": 3428,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -886,63 +906,108 @@
                 "y": 9514,
                 "plane": 0,
                 "areaLabel": "Here be minotaurs",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1953,
+                    "y": 3103,
+                    "plane": 0
+                }
             },
             {
                 "x": 1944,
                 "y": 9512,
                 "plane": 0,
                 "areaLabel": "Here be minotaurs",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1953,
+                    "y": 3103,
+                    "plane": 0
+                }
             },
             {
                 "x": 1945,
                 "y": 9509,
                 "plane": 0,
                 "areaLabel": "Here be minotaurs",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1953,
+                    "y": 3103,
+                    "plane": 0
+                }
             },
             {
                 "x": 1948,
                 "y": 9512,
                 "plane": 0,
                 "areaLabel": "Here be minotaurs",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1953,
+                    "y": 3103,
+                    "plane": 0
+                }
             },
             {
                 "x": 1951,
                 "y": 9511,
                 "plane": 0,
                 "areaLabel": "Here be minotaurs",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1953,
+                    "y": 3103,
+                    "plane": 0
+                }
             },
             {
                 "x": 1954,
                 "y": 9508,
                 "plane": 0,
                 "areaLabel": "Here be minotaurs",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1953,
+                    "y": 3103,
+                    "plane": 0
+                }
             },
             {
                 "x": 1954,
                 "y": 9512,
                 "plane": 0,
                 "areaLabel": "Here be minotaurs",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1953,
+                    "y": 3103,
+                    "plane": 0
+                }
             },
             {
                 "x": 1956,
                 "y": 9515,
                 "plane": 0,
                 "areaLabel": "Here be minotaurs",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1953,
+                    "y": 3103,
+                    "plane": 0
+                }
             },
             {
                 "x": 1957,
                 "y": 9510,
                 "plane": 0,
                 "areaLabel": "Here be minotaurs",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1953,
+                    "y": 3103,
+                    "plane": 0
+                }
             },
             {
                 "x": 2535,
@@ -3123,147 +3188,252 @@
                 "y": 9740,
                 "plane": 0,
                 "areaLabel": "Chaos Druid Tower dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2563,
+                    "y": 3356,
+                    "plane": 0
+                }
             },
             {
                 "x": 2590,
                 "y": 9731,
                 "plane": 0,
                 "areaLabel": "Chaos Druid Tower dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2563,
+                    "y": 3356,
+                    "plane": 0
+                }
             },
             {
                 "x": 2580,
                 "y": 9732,
                 "plane": 0,
                 "areaLabel": "Chaos Druid Tower dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2563,
+                    "y": 3356,
+                    "plane": 0
+                }
             },
             {
                 "x": 2584,
                 "y": 9732,
                 "plane": 0,
                 "areaLabel": "Chaos Druid Tower dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2563,
+                    "y": 3356,
+                    "plane": 0
+                }
             },
             {
                 "x": 2590,
                 "y": 9736,
                 "plane": 0,
                 "areaLabel": "Chaos Druid Tower dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2563,
+                    "y": 3356,
+                    "plane": 0
+                }
             },
             {
                 "x": 2586,
                 "y": 9732,
                 "plane": 0,
                 "areaLabel": "Chaos Druid Tower dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2563,
+                    "y": 3356,
+                    "plane": 0
+                }
             },
             {
                 "x": 2584,
                 "y": 9743,
                 "plane": 0,
                 "areaLabel": "Chaos Druid Tower dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2563,
+                    "y": 3356,
+                    "plane": 0
+                }
             },
             {
                 "x": 2589,
                 "y": 9731,
                 "plane": 0,
                 "areaLabel": "Chaos Druid Tower dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2563,
+                    "y": 3356,
+                    "plane": 0
+                }
             },
             {
                 "x": 2580,
                 "y": 9741,
                 "plane": 0,
                 "areaLabel": "Chaos Druid Tower dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2563,
+                    "y": 3356,
+                    "plane": 0
+                }
             },
             {
                 "x": 2653,
                 "y": 9421,
                 "plane": 0,
                 "areaLabel": "Brimhaven Dungeon (task-only area)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2744,
+                    "y": 3155,
+                    "plane": 0
+                }
             },
             {
                 "x": 2644,
                 "y": 9460,
                 "plane": 0,
                 "areaLabel": "Brimhaven Dungeon (task-only area)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2744,
+                    "y": 3155,
+                    "plane": 0
+                }
             },
             {
                 "x": 2637,
                 "y": 9430,
                 "plane": 0,
                 "areaLabel": "Brimhaven Dungeon (task-only area)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2744,
+                    "y": 3155,
+                    "plane": 0
+                }
             },
             {
                 "x": 2677,
                 "y": 9431,
                 "plane": 0,
                 "areaLabel": "Brimhaven Dungeon (task-only area)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2744,
+                    "y": 3155,
+                    "plane": 0
+                }
             },
             {
                 "x": 2634,
                 "y": 9454,
                 "plane": 0,
                 "areaLabel": "Brimhaven Dungeon (task-only area)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2744,
+                    "y": 3155,
+                    "plane": 0
+                }
             },
             {
                 "x": 2636,
                 "y": 9418,
                 "plane": 0,
                 "areaLabel": "Brimhaven Dungeon (task-only area)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2744,
+                    "y": 3155,
+                    "plane": 0
+                }
             },
             {
                 "x": 2677,
                 "y": 9462,
                 "plane": 0,
                 "areaLabel": "Brimhaven Dungeon (task-only area)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2744,
+                    "y": 3155,
+                    "plane": 0
+                }
             },
             {
                 "x": 2670,
                 "y": 9419,
                 "plane": 0,
                 "areaLabel": "Brimhaven Dungeon (task-only area)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2744,
+                    "y": 3155,
+                    "plane": 0
+                }
             },
             {
                 "x": 2659,
                 "y": 9456,
                 "plane": 0,
                 "areaLabel": "Brimhaven Dungeon (task-only area)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2744,
+                    "y": 3155,
+                    "plane": 0
+                }
             },
             {
                 "x": 2669,
                 "y": 9428,
                 "plane": 0,
                 "areaLabel": "Brimhaven Dungeon (task-only area)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2744,
+                    "y": 3155,
+                    "plane": 0
+                }
             },
             {
                 "x": 2670,
                 "y": 9463,
                 "plane": 0,
                 "areaLabel": "Brimhaven Dungeon (task-only area)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2744,
+                    "y": 3155,
+                    "plane": 0
+                }
             },
             {
                 "x": 2679,
                 "y": 9442,
                 "plane": 0,
                 "areaLabel": "Brimhaven Dungeon (task-only area)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2744,
+                    "y": 3155,
+                    "plane": 0
+                }
             },
             {
                 "x": 2830,
@@ -3284,140 +3454,240 @@
                 "y": 9113,
                 "plane": 0,
                 "areaLabel": "Kruk's Dungeon - hunter area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2715,
+                    "y": 2789,
+                    "plane": 0
+                }
             },
             {
                 "x": 2902,
                 "y": 9125,
                 "plane": 0,
                 "areaLabel": "Kruk's Dungeon - hunter area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2715,
+                    "y": 2789,
+                    "plane": 0
+                }
             },
             {
                 "x": 2903,
                 "y": 9133,
                 "plane": 0,
                 "areaLabel": "Kruk's Dungeon - hunter area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2715,
+                    "y": 2789,
+                    "plane": 0
+                }
             },
             {
                 "x": 2904,
                 "y": 9113,
                 "plane": 0,
                 "areaLabel": "Kruk's Dungeon - hunter area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2715,
+                    "y": 2789,
+                    "plane": 0
+                }
             },
             {
                 "x": 2904,
                 "y": 9121,
                 "plane": 0,
                 "areaLabel": "Kruk's Dungeon - hunter area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2715,
+                    "y": 2789,
+                    "plane": 0
+                }
             },
             {
                 "x": 2905,
                 "y": 9136,
                 "plane": 0,
                 "areaLabel": "Kruk's Dungeon - hunter area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2715,
+                    "y": 2789,
+                    "plane": 0
+                }
             },
             {
                 "x": 2906,
                 "y": 9109,
                 "plane": 0,
                 "areaLabel": "Kruk's Dungeon - hunter area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2715,
+                    "y": 2789,
+                    "plane": 0
+                }
             },
             {
                 "x": 2907,
                 "y": 9127,
                 "plane": 0,
                 "areaLabel": "Kruk's Dungeon - hunter area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2715,
+                    "y": 2789,
+                    "plane": 0
+                }
             },
             {
                 "x": 2907,
                 "y": 9134,
                 "plane": 0,
                 "areaLabel": "Kruk's Dungeon - hunter area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2715,
+                    "y": 2789,
+                    "plane": 0
+                }
             },
             {
                 "x": 2909,
                 "y": 9118,
                 "plane": 0,
                 "areaLabel": "Kruk's Dungeon - hunter area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2715,
+                    "y": 2789,
+                    "plane": 0
+                }
             },
             {
                 "x": 2911,
                 "y": 9110,
                 "plane": 0,
                 "areaLabel": "Kruk's Dungeon - hunter area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2715,
+                    "y": 2789,
+                    "plane": 0
+                }
             },
             {
                 "x": 2911,
                 "y": 9130,
                 "plane": 0,
                 "areaLabel": "Kruk's Dungeon - hunter area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2715,
+                    "y": 2789,
+                    "plane": 0
+                }
             },
             {
                 "x": 2913,
                 "y": 9139,
                 "plane": 0,
                 "areaLabel": "Kruk's Dungeon - hunter area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2715,
+                    "y": 2789,
+                    "plane": 0
+                }
             },
             {
                 "x": 2914,
                 "y": 9125,
                 "plane": 0,
                 "areaLabel": "Kruk's Dungeon - hunter area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2715,
+                    "y": 2789,
+                    "plane": 0
+                }
             },
             {
                 "x": 2915,
                 "y": 9108,
                 "plane": 0,
                 "areaLabel": "Kruk's Dungeon - hunter area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2715,
+                    "y": 2789,
+                    "plane": 0
+                }
             },
             {
                 "x": 2916,
                 "y": 9115,
                 "plane": 0,
                 "areaLabel": "Kruk's Dungeon - hunter area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2715,
+                    "y": 2789,
+                    "plane": 0
+                }
             },
             {
                 "x": 2916,
                 "y": 9132,
                 "plane": 0,
                 "areaLabel": "Kruk's Dungeon - hunter area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2715,
+                    "y": 2789,
+                    "plane": 0
+                }
             },
             {
                 "x": 2919,
                 "y": 9112,
                 "plane": 0,
                 "areaLabel": "Kruk's Dungeon - hunter area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2715,
+                    "y": 2789,
+                    "plane": 0
+                }
             },
             {
                 "x": 2919,
                 "y": 9135,
                 "plane": 0,
                 "areaLabel": "Kruk's Dungeon - hunter area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2715,
+                    "y": 2789,
+                    "plane": 0
+                }
             },
             {
                 "x": 2920,
                 "y": 9123,
                 "plane": 0,
                 "areaLabel": "Kruk's Dungeon - hunter area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2715,
+                    "y": 2789,
+                    "plane": 0
+                }
             },
             {
                 "x": 3280,
@@ -3431,77 +3701,132 @@
                 "y": 9749,
                 "plane": 0,
                 "areaLabel": "Digsite Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3370,
+                    "y": 3428,
+                    "plane": 0
+                }
             },
             {
                 "x": 3366,
                 "y": 9748,
                 "plane": 0,
                 "areaLabel": "Digsite Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3370,
+                    "y": 3428,
+                    "plane": 0
+                }
             },
             {
                 "x": 3367,
                 "y": 9750,
                 "plane": 0,
                 "areaLabel": "Digsite Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3370,
+                    "y": 3428,
+                    "plane": 0
+                }
             },
             {
                 "x": 3368,
                 "y": 9752,
                 "plane": 0,
                 "areaLabel": "Digsite Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3370,
+                    "y": 3428,
+                    "plane": 0
+                }
             },
             {
                 "x": 3371,
                 "y": 9752,
                 "plane": 0,
                 "areaLabel": "Digsite Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3370,
+                    "y": 3428,
+                    "plane": 0
+                }
             },
             {
                 "x": 3375,
                 "y": 9757,
                 "plane": 0,
                 "areaLabel": "Digsite Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3370,
+                    "y": 3428,
+                    "plane": 0
+                }
             },
             {
                 "x": 3383,
                 "y": 9752,
                 "plane": 0,
                 "areaLabel": "Digsite Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3370,
+                    "y": 3428,
+                    "plane": 0
+                }
             },
             {
                 "x": 3383,
                 "y": 9755,
                 "plane": 0,
                 "areaLabel": "Digsite Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3370,
+                    "y": 3428,
+                    "plane": 0
+                }
             },
             {
                 "x": 3384,
                 "y": 9748,
                 "plane": 0,
                 "areaLabel": "Digsite Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3370,
+                    "y": 3428,
+                    "plane": 0
+                }
             },
             {
                 "x": 3384,
                 "y": 9753,
                 "plane": 0,
                 "areaLabel": "Digsite Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3370,
+                    "y": 3428,
+                    "plane": 0
+                }
             },
             {
                 "x": 3385,
                 "y": 9747,
                 "plane": 0,
                 "areaLabel": "Digsite Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3370,
+                    "y": 3428,
+                    "plane": 0
+                }
             },
             {
                 "x": 2854,
@@ -3886,154 +4211,264 @@
                 "y": 9404,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 2307,
                 "y": 9397,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 2308,
                 "y": 9345,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 2308,
                 "y": 9347,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 2309,
                 "y": 9396,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 2310,
                 "y": 9346,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 2311,
                 "y": 9345,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 2326,
                 "y": 9357,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 2326,
                 "y": 9359,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 2327,
                 "y": 9357,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 2327,
                 "y": 9405,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 2329,
                 "y": 9399,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 2331,
                 "y": 9375,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 2337,
                 "y": 9393,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 2339,
                 "y": 9396,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 2348,
                 "y": 9359,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 2349,
                 "y": 9361,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 2350,
                 "y": 9360,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 2359,
                 "y": 9385,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 2363,
                 "y": 9355,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 2365,
                 "y": 9351,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 2365,
                 "y": 9354,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 2613,
@@ -4474,35 +4909,60 @@
                 "y": 9821,
                 "plane": 0,
                 "areaLabel": "Temple of Ikov",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2677,
+                    "y": 3405,
+                    "plane": 0
+                }
             },
             {
                 "x": 2671,
                 "y": 9831,
                 "plane": 0,
                 "areaLabel": "Temple of Ikov",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2677,
+                    "y": 3405,
+                    "plane": 0
+                }
             },
             {
                 "x": 2672,
                 "y": 9823,
                 "plane": 0,
                 "areaLabel": "Temple of Ikov",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2677,
+                    "y": 3405,
+                    "plane": 0
+                }
             },
             {
                 "x": 2673,
                 "y": 9822,
                 "plane": 0,
                 "areaLabel": "Temple of Ikov",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2677,
+                    "y": 3405,
+                    "plane": 0
+                }
             },
             {
                 "x": 2673,
                 "y": 9829,
                 "plane": 0,
                 "areaLabel": "Temple of Ikov",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2677,
+                    "y": 3405,
+                    "plane": 0
+                }
             },
             {
                 "x": 3106,
@@ -4824,161 +5284,276 @@
                 "y": 6012,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 1 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2247,
                 "y": 6010,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 1 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2266,
                 "y": 6018,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 1 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2271,
                 "y": 6016,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 1 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2279,
                 "y": 6016,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 1 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2300,
                 "y": 6005,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 1 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2303,
                 "y": 5986,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 1 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2241,
                 "y": 5959,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 1 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2245,
                 "y": 5963,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 1 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2243,
                 "y": 5968,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 1 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2243,
                 "y": 5993,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 1 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2242,
                 "y": 5997,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 1 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2295,
                 "y": 5957,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 1 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2287,
                 "y": 5956,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 1 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2491,
                 "y": 5990,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 2",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2491,
                 "y": 5978,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 2",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2494,
                 "y": 5978,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 2",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2494,
                 "y": 5989,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 2",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2511,
                 "y": 5980,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 2",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2554,
                 "y": 5952,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (unobtainable)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2399,
                 "y": 5816,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 3 (unobtainable)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2396,
                 "y": 5819,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 3 (unobtainable)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2402,
                 "y": 5819,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 3 (unobtainable)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -5055,7 +5630,12 @@
                 "y": 9767,
                 "plane": 0,
                 "areaLabel": "Temple of Ikov basement",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2677,
+                    "y": 3405,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -5189,21 +5769,36 @@
                 "y": 5952,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (unobtainable)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2518,
                 "y": 5862,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 4",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2510,
                 "y": 5862,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 4",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 1639,
@@ -5340,28 +5935,48 @@
                 "y": 8980,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2023,
                 "y": 8994,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2032,
                 "y": 9002,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2033,
                 "y": 8978,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2564,
@@ -5731,21 +6346,36 @@
                 "y": 9853,
                 "plane": 0,
                 "areaLabel": "Temple of Ikov",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2677,
+                    "y": 3405,
+                    "plane": 0
+                }
             },
             {
                 "x": 2644,
                 "y": 9851,
                 "plane": 0,
                 "areaLabel": "Temple of Ikov",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2677,
+                    "y": 3405,
+                    "plane": 0
+                }
             },
             {
                 "x": 2649,
                 "y": 9854,
                 "plane": 0,
                 "areaLabel": "Temple of Ikov",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2677,
+                    "y": 3405,
+                    "plane": 0
+                }
             },
             {
                 "x": 2573,
@@ -6325,7 +6955,12 @@
                 "y": 9463,
                 "plane": 0,
                 "areaLabel": "Brimhaven Dungeon (task-only area)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2744,
+                    "y": 3155,
+                    "plane": 0
+                }
             },
             {
                 "x": 1620,
@@ -6477,14 +7112,24 @@
                 "y": 4572,
                 "plane": 0,
                 "areaLabel": "Abandoned Mine - level 2",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3440,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 2806,
                 "y": 4569,
                 "plane": 0,
                 "areaLabel": "Abandoned Mine - level 2",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3440,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 2056,
@@ -6631,28 +7276,48 @@
                 "y": 4579,
                 "plane": 0,
                 "areaLabel": "Abandoned Mine - level 2",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3440,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 2811,
                 "y": 4572,
                 "plane": 0,
                 "areaLabel": "Abandoned Mine - level 2",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3440,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 2801,
                 "y": 4493,
                 "plane": 0,
                 "areaLabel": "Abandoned Mine - level 4",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3440,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 2801,
                 "y": 4513,
                 "plane": 0,
                 "areaLabel": "Abandoned Mine - level 4",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3440,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 2800,
@@ -6849,7 +7514,12 @@
                 "y": 4572,
                 "plane": 0,
                 "areaLabel": "Abandoned Mine - level 2",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3440,
+                    "y": 3232,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -6947,21 +7617,36 @@
                 "y": 9759,
                 "plane": 0,
                 "areaLabel": "Digsite Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3370,
+                    "y": 3428,
+                    "plane": 0
+                }
             },
             {
                 "x": 3355,
                 "y": 9754,
                 "plane": 0,
                 "areaLabel": "Digsite Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3370,
+                    "y": 3428,
+                    "plane": 0
+                }
             },
             {
                 "x": 3357,
                 "y": 9756,
                 "plane": 0,
                 "areaLabel": "Digsite Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3370,
+                    "y": 3428,
+                    "plane": 0
+                }
             },
             {
                 "x": 3121,
@@ -7234,7 +7919,12 @@
                 "y": 8985,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 1705,
@@ -7263,7 +7953,12 @@
                 "y": 9908,
                 "plane": 0,
                 "areaLabel": "Temple of Ikov",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2677,
+                    "y": 3405,
+                    "plane": 0
+                }
             },
             {
                 "x": 1644,
@@ -8097,56 +8792,96 @@
                 "y": 10094,
                 "plane": 0,
                 "areaLabel": "Chasm of Fire - lowest level",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1435,
+                    "y": 3668,
+                    "plane": 0
+                }
             },
             {
                 "x": 1443,
                 "y": 10094,
                 "plane": 0,
                 "areaLabel": "Chasm of Fire - lowest level",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1435,
+                    "y": 3668,
+                    "plane": 0
+                }
             },
             {
                 "x": 1436,
                 "y": 10098,
                 "plane": 0,
                 "areaLabel": "Chasm of Fire - lowest level",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1435,
+                    "y": 3668,
+                    "plane": 0
+                }
             },
             {
                 "x": 1421,
                 "y": 10087,
                 "plane": 0,
                 "areaLabel": "Chasm of Fire - lowest level",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1435,
+                    "y": 3668,
+                    "plane": 0
+                }
             },
             {
                 "x": 1420,
                 "y": 10068,
                 "plane": 0,
                 "areaLabel": "Chasm of Fire - lowest level",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1435,
+                    "y": 3668,
+                    "plane": 0
+                }
             },
             {
                 "x": 1433,
                 "y": 10062,
                 "plane": 0,
                 "areaLabel": "Chasm of Fire - lowest level",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1435,
+                    "y": 3668,
+                    "plane": 0
+                }
             },
             {
                 "x": 1451,
                 "y": 10061,
                 "plane": 0,
                 "areaLabel": "Chasm of Fire - lowest level",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1435,
+                    "y": 3668,
+                    "plane": 0
+                }
             },
             {
                 "x": 1459,
                 "y": 10073,
                 "plane": 0,
                 "areaLabel": "Chasm of Fire - lowest level",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1435,
+                    "y": 3668,
+                    "plane": 0
+                }
             },
             {
                 "x": 3213,
@@ -8230,7 +8965,12 @@
                 "y": 5985,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 2",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 1809,
@@ -8377,7 +9117,12 @@
                 "y": 8984,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -8777,14 +9522,24 @@
                 "y": 4500,
                 "plane": 0,
                 "areaLabel": "Abandoned Mine - level 4",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3440,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 2803,
                 "y": 4491,
                 "plane": 0,
                 "areaLabel": "Abandoned Mine - level 4",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3440,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 1452,
@@ -9024,28 +9779,48 @@
                 "y": 4516,
                 "plane": 0,
                 "areaLabel": "Abandoned Mine - level 4",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3440,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 2771,
                 "y": 4516,
                 "plane": 0,
                 "areaLabel": "Abandoned Mine - level 4",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3440,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 2772,
                 "y": 4515,
                 "plane": 0,
                 "areaLabel": "Abandoned Mine - level 4",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3440,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 2772,
                 "y": 4517,
                 "plane": 0,
                 "areaLabel": "Abandoned Mine - level 4",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3440,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 2988,
@@ -9185,175 +9960,300 @@
                 "y": 8994,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2009,
                 "y": 9005,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 1998,
                 "y": 8971,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2005,
                 "y": 8969,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 1999,
                 "y": 8970,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2061,
                 "y": 9005,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2057,
                 "y": 9005,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 1996,
                 "y": 8972,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2006,
                 "y": 8988,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 1997,
                 "y": 8971,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2039,
                 "y": 8982,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2054,
                 "y": 9002,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2067,
                 "y": 8988,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2035,
                 "y": 8987,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2058,
                 "y": 9004,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2062,
                 "y": 9004,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2017,
                 "y": 8999,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2011,
                 "y": 8982,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2063,
                 "y": 9002,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2056,
                 "y": 9006,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2058,
                 "y": 8987,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2056,
                 "y": 9002,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2034,
                 "y": 8986,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2001,
                 "y": 8980,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2031,
                 "y": 8979,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2856,
@@ -9588,399 +10488,684 @@
                 "y": 5966,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 1 (2 require telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2274,
                 "y": 5969,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 1 (2 require telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2276,
                 "y": 5966,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 1 (2 require telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2274,
                 "y": 5973,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 1 (2 require telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2269,
                 "y": 5974,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 1 (2 require telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2269,
                 "y": 5968,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 1 (2 require telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2268,
                 "y": 5966,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 1 (2 require telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2488,
                 "y": 5978,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2489,
                 "y": 5974,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2493,
                 "y": 5980,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2490,
                 "y": 5980,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2493,
                 "y": 5988,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2494,
                 "y": 5993,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2524,
                 "y": 6005,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2525,
                 "y": 6003,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2531,
                 "y": 6002,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2530,
                 "y": 6004,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2533,
                 "y": 6005,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2550,
                 "y": 6013,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2549,
                 "y": 6014,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2547,
                 "y": 6012,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2526,
                 "y": 5960,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2525,
                 "y": 5961,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2523,
                 "y": 5960,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2521,
                 "y": 5961,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2494,
                 "y": 5962,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2491,
                 "y": 5956,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2488,
                 "y": 5987,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (unobtainable)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2488,
                 "y": 5982,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (unobtainable)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2489,
                 "y": 5988,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2 (unobtainable)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2392,
                 "y": 5877,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 3 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2387,
                 "y": 5847,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 3 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2388,
                 "y": 5845,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 3 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2385,
                 "y": 5844,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 3 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2403,
                 "y": 5871,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 3 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2401,
                 "y": 5868,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 3 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2398,
                 "y": 5870,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 3 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2416,
                 "y": 5827,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 3 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2417,
                 "y": 5831,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 3 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2419,
                 "y": 5829,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 3 (1 requires telegrab)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2388,
                 "y": 5886,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 3 (unobtainable)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2391,
                 "y": 5883,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 3 (unobtainable)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2387,
                 "y": 5882,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 3 (unobtainable)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2389,
                 "y": 5879,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 3 (unobtainable)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2400,
                 "y": 5814,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 3 (unobtainable)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2397,
                 "y": 5817,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 3 (unobtainable)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2398,
                 "y": 5820,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 3 (unobtainable)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2403,
                 "y": 5818,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 3 (unobtainable)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2550,
                 "y": 5849,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 4",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2552,
                 "y": 5851,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 4",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2550,
                 "y": 5855,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 4",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2553,
                 "y": 5854,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 4",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2247,
                 "y": 5847,
                 "plane": 0,
                 "areaLabel": "Hallowed Sepulchre - floor 5",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2243,
                 "y": 5837,
                 "plane": 0,
                 "areaLabel": "Hallowed Sepulchre - floor 5",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2245,
                 "y": 5841,
                 "plane": 0,
                 "areaLabel": "Hallowed Sepulchre - floor 5",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2244,
                 "y": 5850,
                 "plane": 0,
                 "areaLabel": "Hallowed Sepulchre - floor 5",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2243,
                 "y": 5853,
                 "plane": 0,
                 "areaLabel": "Hallowed Sepulchre - floor 5",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 1859,
@@ -11946,28 +13131,48 @@
                 "y": 10099,
                 "plane": 0,
                 "areaLabel": "Chasm of Fire - lowest level",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1435,
+                    "y": 3668,
+                    "plane": 0
+                }
             },
             {
                 "x": 1421,
                 "y": 10096,
                 "plane": 0,
                 "areaLabel": "Chasm of Fire - lowest level",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1435,
+                    "y": 3668,
+                    "plane": 0
+                }
             },
             {
                 "x": 1419,
                 "y": 10062,
                 "plane": 0,
                 "areaLabel": "Chasm of Fire - lowest level",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1435,
+                    "y": 3668,
+                    "plane": 0
+                }
             },
             {
                 "x": 1454,
                 "y": 10063,
                 "plane": 0,
                 "areaLabel": "Chasm of Fire - lowest level",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1435,
+                    "y": 3668,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -12205,42 +13410,72 @@
                 "y": 8985,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon - eastern end",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 1965,
                 "y": 9082,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon - northern end",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 1967,
                 "y": 9084,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon - northern end",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 1968,
                 "y": 9083,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon - northern end",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 1969,
                 "y": 9083,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon - northern end",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 1973,
                 "y": 9081,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon - northern end",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 1743,
@@ -12275,7 +13510,12 @@
                 "y": 8986,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -12345,7 +13585,12 @@
                 "y": 9004,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon (unobtainable)",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 3107,
@@ -12366,35 +13611,60 @@
                 "y": 5867,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 3",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2419,
                 "y": 5826,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 3",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2384,
                 "y": 5846,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 3",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2553,
                 "y": 5855,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 4",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2247,
                 "y": 5843,
                 "plane": 2,
                 "areaLabel": "Hallowed Sepulchre - floor 5",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -12762,7 +14032,12 @@
                 "y": 9383,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             },
             {
                 "x": 1773,
@@ -13121,7 +14396,12 @@
                 "y": 9463,
                 "plane": 0,
                 "areaLabel": "Brimhaven Dungeon (task-only area)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2744,
+                    "y": 3155,
+                    "plane": 0
+                }
             },
             {
                 "x": 2918,
@@ -13402,14 +14682,24 @@
                 "y": 5985,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2492,
                 "y": 5990,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 1616,
@@ -13444,21 +14734,36 @@
                 "y": 9753,
                 "plane": 0,
                 "areaLabel": "Digsite Dungeon - next to Doug Deeping",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3370,
+                    "y": 3428,
+                    "plane": 0
+                }
             },
             {
                 "x": 3348,
                 "y": 9752,
                 "plane": 0,
                 "areaLabel": "Digsite Dungeon - next to Doug Deeping",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3370,
+                    "y": 3428,
+                    "plane": 0
+                }
             },
             {
                 "x": 3350,
                 "y": 9751,
                 "plane": 0,
                 "areaLabel": "Digsite Dungeon - next to Doug Deeping",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3370,
+                    "y": 3428,
+                    "plane": 0
+                }
             },
             {
                 "x": 2672,
@@ -13619,14 +14924,24 @@
                 "y": 5983,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2497,
                 "y": 5987,
                 "plane": 1,
                 "areaLabel": "Hallowed Sepulchre - floor 2",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -14349,7 +15664,12 @@
                 "y": 9767,
                 "plane": 0,
                 "areaLabel": "Temple of Ikov basement",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2677,
+                    "y": 3405,
+                    "plane": 0
+                }
             },
             {
                 "x": 3218,
@@ -14678,7 +15998,12 @@
                 "y": 9819,
                 "plane": 0,
                 "areaLabel": "Temple of Ikov",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2677,
+                    "y": 3405,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -15524,7 +16849,12 @@
                 "y": 9005,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon - Francois' inaccessible exit",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -16752,7 +18082,12 @@
                 "y": 8983,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -16766,7 +18101,12 @@
                 "y": 8978,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -16929,77 +18269,132 @@
                 "y": 9960,
                 "plane": 0,
                 "areaLabel": "Forthos Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1702,
+                    "y": 3574,
+                    "plane": 0
+                }
             },
             {
                 "x": 1845,
                 "y": 9965,
                 "plane": 0,
                 "areaLabel": "Forthos Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1702,
+                    "y": 3574,
+                    "plane": 0
+                }
             },
             {
                 "x": 1830,
                 "y": 9965,
                 "plane": 0,
                 "areaLabel": "Forthos Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1702,
+                    "y": 3574,
+                    "plane": 0
+                }
             },
             {
                 "x": 1830,
                 "y": 9961,
                 "plane": 0,
                 "areaLabel": "Forthos Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1702,
+                    "y": 3574,
+                    "plane": 0
+                }
             },
             {
                 "x": 1830,
                 "y": 9956,
                 "plane": 0,
                 "areaLabel": "Forthos Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1702,
+                    "y": 3574,
+                    "plane": 0
+                }
             },
             {
                 "x": 1831,
                 "y": 9951,
                 "plane": 0,
                 "areaLabel": "Forthos Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1702,
+                    "y": 3574,
+                    "plane": 0
+                }
             },
             {
                 "x": 1832,
                 "y": 9946,
                 "plane": 0,
                 "areaLabel": "Forthos Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1702,
+                    "y": 3574,
+                    "plane": 0
+                }
             },
             {
                 "x": 1837,
                 "y": 9960,
                 "plane": 0,
                 "areaLabel": "Forthos Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1702,
+                    "y": 3574,
+                    "plane": 0
+                }
             },
             {
                 "x": 1837,
                 "y": 9958,
                 "plane": 0,
                 "areaLabel": "Forthos Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1702,
+                    "y": 3574,
+                    "plane": 0
+                }
             },
             {
                 "x": 1840,
                 "y": 9960,
                 "plane": 0,
                 "areaLabel": "Forthos Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1702,
+                    "y": 3574,
+                    "plane": 0
+                }
             },
             {
                 "x": 1840,
                 "y": 9955,
                 "plane": 0,
                 "areaLabel": "Forthos Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1702,
+                    "y": 3574,
+                    "plane": 0
+                }
             },
             {
                 "x": 3035,
@@ -17133,21 +18528,36 @@
                 "y": 8985,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 1999,
                 "y": 8995,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 2038,
                 "y": 8981,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 3642,
@@ -17588,21 +18998,36 @@
                 "y": 5843,
                 "plane": 0,
                 "areaLabel": "Hallowed Sepulchre - floor 5",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2244,
                 "y": 5839,
                 "plane": 0,
                 "areaLabel": "Hallowed Sepulchre - floor 5",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             },
             {
                 "x": 2245,
                 "y": 5836,
                 "plane": 0,
                 "areaLabel": "Hallowed Sepulchre - floor 5",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3654,
+                    "y": 3387,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -19535,7 +20960,12 @@
                 "y": 9859,
                 "plane": 0,
                 "areaLabel": "Temple of Ikov",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2677,
+                    "y": 3405,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -20123,7 +21553,12 @@
                 "y": 8984,
                 "plane": 0,
                 "areaLabel": "Corsair Cove Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2523,
+                    "y": 2861,
+                    "plane": 0
+                }
             },
             {
                 "x": 3120,
@@ -20299,7 +21734,12 @@
                 "y": 9906,
                 "plane": 0,
                 "areaLabel": "Temple of Ikov",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2677,
+                    "y": 3405,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -20381,7 +21821,12 @@
                 "y": 9422,
                 "plane": 0,
                 "areaLabel": "Brimhaven Dungeon (task-only area)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2744,
+                    "y": 3155,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -20437,7 +21882,12 @@
                 "y": 4566,
                 "plane": 0,
                 "areaLabel": "Abandoned Mine - level 2",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3440,
+                    "y": 3232,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -20451,7 +21901,12 @@
                 "y": 4571,
                 "plane": 0,
                 "areaLabel": "Abandoned Mine - level 2",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3440,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 3670,
@@ -20703,7 +22158,12 @@
                 "y": 3176,
                 "plane": 0,
                 "areaLabel": "Observatory Dungeon entrance",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2459,
+                    "y": 3184,
+                    "plane": 0
+                }
             }
         ]
     },
