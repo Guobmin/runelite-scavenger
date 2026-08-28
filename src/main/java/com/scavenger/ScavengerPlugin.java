@@ -86,6 +86,7 @@ public class ScavengerPlugin extends Plugin
 			.panel(panel)
 			.build();
 		clientToolbar.addNavigation(navButton);
+		panel.restart();
 
 		overlayManager.add(minimapOverlay);
 		overlayManager.add(worldOverlay);

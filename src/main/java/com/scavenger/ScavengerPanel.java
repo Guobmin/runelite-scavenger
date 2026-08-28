@@ -355,6 +355,13 @@ class ScavengerPanel extends PluginPanel
 		}
 	}
 
+	void restart()
+	{
+		refreshTimer.start();
+		updateActiveLabel();
+		onSearchChanged("");
+	}
+
 	void shutdown()
 	{
 		refreshTimer.stop();
