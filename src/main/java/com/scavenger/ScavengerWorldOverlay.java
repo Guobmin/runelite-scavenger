@@ -3,17 +3,16 @@ package com.scavenger;
 import java.awt.Graphics2D;
 import java.awt.Shape;
 import java.util.List;
-import java.util.Set;
 import javax.inject.Inject;
 import net.runelite.api.Client;
 import net.runelite.api.GameObject;
+import net.runelite.api.ObjectComposition;
 import net.runelite.api.Perspective;
 import net.runelite.api.Player;
 import net.runelite.api.Tile;
 import net.runelite.api.TileItem;
 import net.runelite.api.coords.LocalPoint;
 import net.runelite.api.coords.WorldPoint;
-import net.runelite.api.gameval.ObjectID;
 import net.runelite.client.ui.overlay.Overlay;
 import net.runelite.client.ui.overlay.OverlayLayer;
 import net.runelite.client.ui.overlay.OverlayPosition;
@@ -21,14 +20,6 @@ import net.runelite.client.ui.overlay.OverlayUtil;
 
 class ScavengerWorldOverlay extends Overlay
 {
-	// Cave entrance tiles (e.g. Edgeville's "trapdoor by a coffin") can stack an
-	// unrelated decorative object on the same tile as the actual trapdoor - the
-	// generic trapdoor ids are reused across dozens of dungeon entrances, so
-	// prefer one of these over whatever the scene's object array returns first.
-	private static final Set<Integer> TRAPDOOR_OBJECT_IDS = Set.of(
-		ObjectID.TRAPDOOR_NONACTIVE, ObjectID.TRAPDOOR, ObjectID.TRAPDOOR_LEVEL1,
-		ObjectID.TRAPDOOR_OPEN, ObjectID.TRAPDOOR_OPEN_LEVEL1);
-
 	private final Client client;
 	private final TargetManager targetManager;
 	private final ScavengerConfig config;
@@ -131,7 +122,7 @@ class ScavengerWorldOverlay extends Overlay
 						continue;
 					}
 
-					Shape clickbox = findTrapdoorShape(tiles[x][y]);
+					Shape clickbox = findTrapdoorShape(client, tiles[x][y]);
 					if (clickbox != null)
 					{
 						return clickbox;
@@ -143,7 +134,33 @@ class ScavengerWorldOverlay extends Overlay
 		return findObjectShape(tiles[localPoint.getSceneX()][localPoint.getSceneY()]);
 	}
 
-	private static Shape findTrapdoorShape(Tile tile)
+	// Trapdoor object ids are re-minted per region (open/closed/locked variants
+	// each get their own id), so a hardcoded id list always misses some - match
+	// by the object's definition name instead, same as Quest Helper's ObjectStep
+	// does for its own generic object matching.
+	private static boolean isTrapdoor(Client client, int objectId)
+	{
+		if (objectId == -1)
+		{
+			return false;
+		}
+
+		ObjectComposition comp = client.getObjectDefinition(objectId);
+		if (comp == null)
+		{
+			return false;
+		}
+
+		if ("Trapdoor".equalsIgnoreCase(comp.getName()))
+		{
+			return true;
+		}
+
+		ObjectComposition impostor = comp.getImpostor();
+		return impostor != null && "Trapdoor".equalsIgnoreCase(impostor.getName());
+	}
+
+	private static Shape findTrapdoorShape(Client client, Tile tile)
 	{
 		if (tile == null)
 		{
@@ -152,7 +169,7 @@ class ScavengerWorldOverlay extends Overlay
 
 		for (GameObject gameObject : tile.getGameObjects())
 		{
-			if (gameObject != null && TRAPDOOR_OBJECT_IDS.contains(gameObject.getId()))
+			if (gameObject != null && isTrapdoor(client, gameObject.getId()))
 			{
 				Shape clickbox = gameObject.getClickbox();
 				if (clickbox != null)
@@ -165,7 +182,7 @@ class ScavengerWorldOverlay extends Overlay
 		// Trapdoors are frequently a GroundObject (or WallObject) rather than a
 		// plain GameObject - the coffin at Edgeville is the GameObject on its
 		// tile, so without this check the loop above finds nothing there.
-		if (tile.getWallObject() != null && TRAPDOOR_OBJECT_IDS.contains(tile.getWallObject().getId()))
+		if (tile.getWallObject() != null && isTrapdoor(client, tile.getWallObject().getId()))
 		{
 			Shape clickbox = tile.getWallObject().getClickbox();
 			if (clickbox != null)
@@ -174,7 +191,7 @@ class ScavengerWorldOverlay extends Overlay
 			}
 		}
 
-		if (tile.getGroundObject() != null && TRAPDOOR_OBJECT_IDS.contains(tile.getGroundObject().getId()))
+		if (tile.getGroundObject() != null && isTrapdoor(client, tile.getGroundObject().getId()))
 		{
 			Shape clickbox = tile.getGroundObject().getClickbox();
 			if (clickbox != null)
