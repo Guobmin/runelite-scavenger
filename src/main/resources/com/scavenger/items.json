@@ -188,8 +188,8 @@
         "type": "GROUND_ITEM",
         "locations": [
             {
-                "x": 1494,
-                "y": 3177,
+                "x": 1497,
+                "y": 3173,
                 "plane": 0,
                 "areaLabel": "Bandits' camp north-east of Ralos' Rise",
                 "members": true
@@ -1223,84 +1223,144 @@
                 "y": 9786,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2902,
                 "y": 9784,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2908,
                 "y": 9789,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2906,
                 "y": 9796,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2910,
                 "y": 9809,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2908,
                 "y": 9805,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2902,
                 "y": 9806,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2919,
                 "y": 9787,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2924,
                 "y": 9791,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2905,
                 "y": 9778,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2905,
                 "y": 9801,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2910,
                 "y": 9782,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 1922,
@@ -3462,196 +3522,336 @@
                 "y": 9894,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3098,
                 "y": 9886,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3119,
                 "y": 9894,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3143,
                 "y": 9878,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3122,
                 "y": 9891,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3101,
                 "y": 9825,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3093,
                 "y": 9884,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3116,
                 "y": 9891,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3142,
                 "y": 9880,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3093,
                 "y": 9879,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3141,
                 "y": 9879,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3107,
                 "y": 9823,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3097,
                 "y": 9901,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3094,
                 "y": 9906,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3110,
                 "y": 9825,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3138,
                 "y": 9880,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3109,
                 "y": 9823,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3116,
                 "y": 9950,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon - Wilderness",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3103,
                 "y": 9953,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon - Wilderness",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3127,
                 "y": 9957,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon - Wilderness",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3104,
                 "y": 9950,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon - Wilderness",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3112,
                 "y": 9956,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon - Wilderness",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3110,
                 "y": 9958,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon - Wilderness",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3110,
                 "y": 9952,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon - Wilderness",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3111,
                 "y": 9959,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon - Wilderness",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3087,
                 "y": 9800,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon - Obor's lair",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3085,
                 "y": 9802,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon - Obor's lair",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3097,
                 "y": 9801,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon - Obor's lair",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3173,
@@ -3987,147 +4187,252 @@
                 "y": 9796,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2968,
                 "y": 9771,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2927,
                 "y": 9805,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2929,
                 "y": 9807,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2924,
                 "y": 9801,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2930,
                 "y": 9794,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2910,
                 "y": 9797,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2935,
                 "y": 9799,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2904,
                 "y": 9826,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2906,
                 "y": 9823,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2924,
                 "y": 9804,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2926,
                 "y": 9801,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2914,
                 "y": 9796,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2906,
                 "y": 9825,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2938,
                 "y": 9796,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2910,
                 "y": 9825,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2907,
                 "y": 9824,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2932,
                 "y": 9792,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2966,
                 "y": 9772,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2908,
                 "y": 9794,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2938,
                 "y": 9792,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2829,
@@ -4990,7 +5295,12 @@
                 "y": 9862,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -5004,7 +5314,12 @@
                 "y": 9881,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3191,
@@ -5696,14 +6011,24 @@
                 "y": 9903,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3135,
                 "y": 9916,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 2944,
@@ -5933,34 +6258,6 @@
                 "members": false
             },
             {
-                "x": 3185,
-                "y": 3277,
-                "plane": 0,
-                "areaLabel": "Lumbridge - outside Fred the Farmer's house",
-                "members": false
-            },
-            {
-                "x": 3232,
-                "y": 3296,
-                "plane": 0,
-                "areaLabel": "Lumbridge - outside Seth Groats's house",
-                "members": false
-            },
-            {
-                "x": 3097,
-                "y": 3239,
-                "plane": 0,
-                "areaLabel": "Draynor Village - near Friendly Forester",
-                "members": false
-            },
-            {
-                "x": 2729,
-                "y": 3479,
-                "plane": 0,
-                "areaLabel": "Seers' Village - near Friendly Forester",
-                "members": true
-            },
-            {
                 "x": 2678,
                 "y": 3731,
                 "plane": 0,
@@ -5982,17 +6279,10 @@
                 "members": true
             },
             {
-                "x": 2805,
-                "y": 3703,
+                "x": 2778,
+                "y": 10079,
                 "plane": 0,
-                "areaLabel": "Mountain Camp - in the cave",
-                "members": true
-            },
-            {
-                "x": 1683,
-                "y": 2975,
-                "plane": 0,
-                "areaLabel": "Avium Savannah - near Marcellus's house",
+                "areaLabel": "Kendal's Lair",
                 "members": true
             },
             {
@@ -6147,7 +6437,12 @@
                 "y": 9817,
                 "plane": 0,
                 "areaLabel": "Dwarven Mines - western end",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3018,
+                    "y": 3450,
+                    "plane": 0
+                }
             },
             {
                 "x": 1694,
@@ -8514,13 +8809,6 @@
                 "members": true
             },
             {
-                "x": 2407,
-                "y": 5645,
-                "plane": 0,
-                "areaLabel": "Guardians of the Rift",
-                "members": true
-            },
-            {
                 "x": 2217,
                 "y": 2789,
                 "plane": 0,
@@ -9128,14 +9416,24 @@
                 "y": 9801,
                 "plane": 0,
                 "areaLabel": "Dwarven Mine",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3018,
+                    "y": 3450,
+                    "plane": 0
+                }
             },
             {
                 "x": 3001,
                 "y": 9798,
                 "plane": 0,
                 "areaLabel": "Dwarven Mine",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3018,
+                    "y": 3450,
+                    "plane": 0
+                }
             },
             {
                 "x": 3381,
@@ -9198,21 +9496,36 @@
                 "y": 9898,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3088,
                 "y": 9899,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3091,
                 "y": 9899,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3338,
@@ -9891,63 +10204,108 @@
                 "y": 9850,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2912,
                 "y": 9801,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2909,
                 "y": 9800,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2934,
                 "y": 9834,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2907,
                 "y": 9807,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2914,
                 "y": 9849,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2910,
                 "y": 9803,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2913,
                 "y": 9806,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2922,
                 "y": 9819,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             },
             {
                 "x": 2955,
@@ -10785,7 +11143,12 @@
                 "y": 9766,
                 "plane": 0,
                 "areaLabel": "Taverley Dungeon - Lava eel fishing spot",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2884,
+                    "y": 3398,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -13842,6 +14205,13 @@
                 "members": true
             },
             {
+                "x": 2523,
+                "y": 2914,
+                "plane": 0,
+                "areaLabel": "Feldip Hills - Hunting expert's house",
+                "members": true
+            },
+            {
                 "x": 2529,
                 "y": 3030,
                 "plane": 0,
@@ -16473,42 +16843,72 @@
                 "y": 9956,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon - Wilderness area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3126,
                 "y": 9958,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon - Wilderness area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3118,
                 "y": 9948,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon - Wilderness area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3129,
                 "y": 9954,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon - Wilderness area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3117,
                 "y": 9951,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon - Wilderness area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 3119,
                 "y": 9949,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon - Wilderness area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             },
             {
                 "x": 1850,
@@ -16697,21 +17097,21 @@
                 "x": 2700,
                 "y": 10163,
                 "plane": 0,
-                "areaLabel": "Brine Rat Cavern",
+                "areaLabel": "Brine Rat Cavern - special spawn",
                 "members": true
             },
             {
                 "x": 2703,
                 "y": 10155,
                 "plane": 0,
-                "areaLabel": "Brine Rat Cavern",
+                "areaLabel": "Brine Rat Cavern - special spawn",
                 "members": true
             },
             {
                 "x": 2718,
                 "y": 10163,
                 "plane": 0,
-                "areaLabel": "Brine Rat Cavern",
+                "areaLabel": "Brine Rat Cavern - special spawn",
                 "members": true
             },
             {
@@ -17161,13 +17561,6 @@
                 "plane": 0,
                 "areaLabel": "Wilderness - hill of spiders north-west of Lava Dragon Isle",
                 "members": false
-            },
-            {
-                "x": 2775,
-                "y": 3850,
-                "plane": 0,
-                "areaLabel": "Trollweiss Mountain summit",
-                "members": true
             }
         ]
     },
@@ -19955,7 +20348,12 @@
                 "y": 9997,
                 "plane": 0,
                 "areaLabel": "Edgeville Dungeon - Wilderness area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3097,
+                    "y": 3469,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -20007,8 +20405,8 @@
         "type": "GROUND_ITEM",
         "locations": [
             {
-                "x": 2805,
-                "y": 3703,
+                "x": 2771,
+                "y": 10081,
                 "plane": 0,
                 "areaLabel": "Kendal's Lair",
                 "members": true
@@ -21568,6 +21966,13 @@
         "itemId": 7156,
         "type": "GROUND_ITEM",
         "locations": [
+            {
+                "x": 1815,
+                "y": 4825,
+                "plane": 0,
+                "areaLabel": "The Adventurous",
+                "members": true
+            },
             {
                 "x": 3806,
                 "y": 2873,
