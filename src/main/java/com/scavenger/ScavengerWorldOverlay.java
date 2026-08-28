@@ -156,6 +156,11 @@ class ScavengerWorldOverlay extends Overlay
 			return true;
 		}
 
+		if (comp.getImpostorIds() == null)
+		{
+			return false;
+		}
+
 		ObjectComposition impostor = comp.getImpostor();
 		return impostor != null && "Trapdoor".equalsIgnoreCase(impostor.getName());
 	}
