@@ -27,35 +27,44 @@ class NearestLocationFinder
 		}
 
 		SpawnLocation bestSamePlane = null;
+		WorldPoint bestSamePlaneTarget = null;
 		int bestSamePlaneDist = Integer.MAX_VALUE;
 		SpawnLocation bestAnyPlane = null;
+		WorldPoint bestAnyPlaneTarget = null;
 		int bestAnyPlaneDist = Integer.MAX_VALUE;
 
 		for (SpawnLocation loc : locations)
 		{
-			int dx = loc.x - playerLocation.getX();
-			int dy = loc.y - playerLocation.getY();
+			// Compare against the entrance (when applicable), not the raw spawn
+			// coordinate: OSRS shifts underground instances thousands of tiles
+			// away in y, so a cave spawn a short walk from its entrance would
+			// otherwise always lose to a genuinely-farther surface alternative.
+			WorldPoint target = navTarget(loc, playerLocation);
+			int dx = target.getX() - playerLocation.getX();
+			int dy = target.getY() - playerLocation.getY();
 			int distSq = dx * dx + dy * dy;
 
 			if (distSq < bestAnyPlaneDist)
 			{
 				bestAnyPlaneDist = distSq;
 				bestAnyPlane = loc;
+				bestAnyPlaneTarget = target;
 			}
 
 			if (loc.plane == playerLocation.getPlane() && distSq < bestSamePlaneDist)
 			{
 				bestSamePlaneDist = distSq;
 				bestSamePlane = loc;
+				bestSamePlaneTarget = target;
 			}
 		}
 
 		if (bestSamePlane != null)
 		{
-			return new Result(bestSamePlane, true, navTarget(bestSamePlane, playerLocation));
+			return new Result(bestSamePlane, true, bestSamePlaneTarget);
 		}
 
-		return new Result(bestAnyPlane, false, navTarget(bestAnyPlane, playerLocation));
+		return new Result(bestAnyPlane, false, bestAnyPlaneTarget);
 	}
 
 	/**

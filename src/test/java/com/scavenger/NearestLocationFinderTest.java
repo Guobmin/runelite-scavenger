@@ -135,4 +135,24 @@ public class NearestLocationFinderTest
 
 		assertEquals(new WorldPoint(3670, 9772, 0), result.navTarget);
 	}
+
+	@Test
+	public void selectionComparesAgainstEntranceNotRawUndergroundCoordinate()
+	{
+		// Regression: the Dwarven Mine's real spawn sits far underground (y+6400
+		// or so), so comparing raw coordinates made a cave spawn a short walk
+		// from its entrance always lose to a merely-farther surface spawn. The
+		// player here stands right next to the mine entrance - the mine spawn
+		// must win even though its raw coordinate looks thousands of tiles away.
+		SpawnLocation mine = spawn(2985, 9817, 0);
+		mine.entrance = entrance(3018, 3450, 0);
+		SpawnLocation farSurfaceAlternative = spawn(1694, 3270, 0);
+		List<SpawnLocation> locations = Arrays.asList(farSurfaceAlternative, mine);
+		WorldPoint player = new WorldPoint(3015, 3448, 0);
+
+		NearestLocationFinder.Result result = NearestLocationFinder.findNearest(player, locations);
+
+		assertEquals(mine, result.location);
+		assertEquals(new WorldPoint(3018, 3450, 0), result.navTarget);
+	}
 }
