@@ -77,7 +77,7 @@ class ScavengerWorldOverlay extends Overlay
 		Shape highlight;
 		if (atEntrance)
 		{
-			highlight = findEntranceObjectShape(tile);
+			highlight = findEntranceObjectShape(client, worldPoint.getPlane(), localPoint);
 		}
 		else if (item != null && item.isObject())
 		{
@@ -101,7 +101,49 @@ class ScavengerWorldOverlay extends Overlay
 		return null;
 	}
 
-	private static Shape findEntranceObjectShape(Tile tile)
+	// Curated entrance coordinates come from parsing wiki prose (e.g. "a trapdoor
+	// by a coffin") rather than exact game data, so they're occasionally off by
+	// a tile or two - scan outward in rings from the curated tile for a trapdoor
+	// object instead of requiring an exact match, falling back to whatever's on
+	// the curated tile itself if nothing trapdoor-shaped is nearby.
+	private static final int ENTRANCE_SEARCH_RADIUS = 2;
+
+	private static Shape findEntranceObjectShape(Client client, int plane, LocalPoint localPoint)
+	{
+		Tile[][][] planes = client.getTopLevelWorldView().getScene().getTiles();
+		Tile[][] tiles = planes[plane];
+
+		for (int ring = 0; ring <= ENTRANCE_SEARCH_RADIUS; ring++)
+		{
+			for (int dx = -ring; dx <= ring; dx++)
+			{
+				for (int dy = -ring; dy <= ring; dy++)
+				{
+					if (Math.max(Math.abs(dx), Math.abs(dy)) != ring)
+					{
+						continue;
+					}
+
+					int x = localPoint.getSceneX() + dx;
+					int y = localPoint.getSceneY() + dy;
+					if (x < 0 || x >= tiles.length || y < 0 || y >= tiles[x].length)
+					{
+						continue;
+					}
+
+					Shape clickbox = findTrapdoorShape(tiles[x][y]);
+					if (clickbox != null)
+					{
+						return clickbox;
+					}
+				}
+			}
+		}
+
+		return findObjectShape(tiles[localPoint.getSceneX()][localPoint.getSceneY()]);
+	}
+
+	private static Shape findTrapdoorShape(Tile tile)
 	{
 		if (tile == null)
 		{
@@ -121,9 +163,8 @@ class ScavengerWorldOverlay extends Overlay
 		}
 
 		// Trapdoors are frequently a GroundObject (or WallObject) rather than a
-		// plain GameObject - the coffin at Edgeville is the GameObject on this
-		// tile, so without this check the loop above finds nothing and falls
-		// straight through to the coffin via findObjectShape's first-match order.
+		// plain GameObject - the coffin at Edgeville is the GameObject on its
+		// tile, so without this check the loop above finds nothing there.
 		if (tile.getWallObject() != null && TRAPDOOR_OBJECT_IDS.contains(tile.getWallObject().getId()))
 		{
 			Shape clickbox = tile.getWallObject().getClickbox();
@@ -142,7 +183,7 @@ class ScavengerWorldOverlay extends Overlay
 			}
 		}
 
-		return findObjectShape(tile);
+		return null;
 	}
 
 	private static Shape findObjectShape(Tile tile)
