@@ -826,21 +826,36 @@
                 "y": 9498,
                 "plane": 1,
                 "areaLabel": "Wolf Den - after killing the Dire Wolf Alpha",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1496,
+                    "y": 3131,
+                    "plane": 0
+                }
             },
             {
                 "x": 1477,
                 "y": 9499,
                 "plane": 1,
                 "areaLabel": "Wolf Den - after killing the Dire Wolf Alpha",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1496,
+                    "y": 3131,
+                    "plane": 0
+                }
             },
             {
                 "x": 1478,
                 "y": 9497,
                 "plane": 1,
                 "areaLabel": "Wolf Den - after killing the Dire Wolf Alpha",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1496,
+                    "y": 3131,
+                    "plane": 0
+                }
             },
             {
                 "x": 2767,
@@ -1622,98 +1637,168 @@
                 "y": 9612,
                 "plane": 0,
                 "areaLabel": "Ruins of Tapoyauik - east blue dragon room",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1693,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 1649,
                 "y": 9618,
                 "plane": 0,
                 "areaLabel": "Ruins of Tapoyauik - east blue dragon room",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1693,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 1654,
                 "y": 9615,
                 "plane": 0,
                 "areaLabel": "Ruins of Tapoyauik - east blue dragon room",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1693,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 1649,
                 "y": 9605,
                 "plane": 0,
                 "areaLabel": "Ruins of Tapoyauik - east blue dragon room",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1693,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 1659,
                 "y": 9603,
                 "plane": 0,
                 "areaLabel": "Ruins of Tapoyauik - east blue dragon room",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1693,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 1662,
                 "y": 9613,
                 "plane": 0,
                 "areaLabel": "Ruins of Tapoyauik - east blue dragon room",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1693,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 1602,
                 "y": 9613,
                 "plane": 0,
                 "areaLabel": "Ruins of Tapoyauik - west blue dragon room",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1693,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 1604,
                 "y": 9604,
                 "plane": 0,
                 "areaLabel": "Ruins of Tapoyauik - west blue dragon room",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1693,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 1597,
                 "y": 9608,
                 "plane": 0,
                 "areaLabel": "Ruins of Tapoyauik - west blue dragon room",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1693,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 1591,
                 "y": 9622,
                 "plane": 0,
                 "areaLabel": "Ruins of Tapoyauik - west blue dragon room",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1693,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 1585,
                 "y": 9612,
                 "plane": 0,
                 "areaLabel": "Ruins of Tapoyauik - west blue dragon room",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1693,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 1585,
                 "y": 9621,
                 "plane": 0,
                 "areaLabel": "Ruins of Tapoyauik - west blue dragon room",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1693,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 1577,
                 "y": 9617,
                 "plane": 0,
                 "areaLabel": "Ruins of Tapoyauik - west blue dragon room",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1693,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 1582,
                 "y": 9605,
                 "plane": 0,
                 "areaLabel": "Ruins of Tapoyauik - west blue dragon room",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1693,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 1236,
@@ -3590,14 +3675,24 @@
                 "y": 9565,
                 "plane": 0,
                 "areaLabel": "Crandor and Karamja Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2845,
+                    "y": 3174,
+                    "plane": 0
+                }
             },
             {
                 "x": 2829,
                 "y": 9564,
                 "plane": 0,
                 "areaLabel": "Crandor and Karamja Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2845,
+                    "y": 3174,
+                    "plane": 0
+                }
             },
             {
                 "x": 2900,
@@ -5280,28 +5375,48 @@
                 "y": 9604,
                 "plane": 2,
                 "areaLabel": "Ruins of Tapoyauik",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1693,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 1685,
                 "y": 9603,
                 "plane": 2,
                 "areaLabel": "Ruins of Tapoyauik",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1693,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 1688,
                 "y": 9606,
                 "plane": 2,
                 "areaLabel": "Ruins of Tapoyauik",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1693,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 1690,
                 "y": 9602,
                 "plane": 2,
                 "areaLabel": "Ruins of Tapoyauik",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1693,
+                    "y": 3232,
+                    "plane": 0
+                }
             },
             {
                 "x": 1411,
@@ -8776,7 +8891,12 @@
                 "y": 9661,
                 "plane": 0,
                 "areaLabel": "Ruins of Tapoyauik",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1693,
+                    "y": 3232,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -10755,35 +10875,60 @@
                 "y": 9645,
                 "plane": 0,
                 "areaLabel": "Crandor and Karamja Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2845,
+                    "y": 3174,
+                    "plane": 0
+                }
             },
             {
                 "x": 2863,
                 "y": 9632,
                 "plane": 0,
                 "areaLabel": "Crandor and Karamja Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2845,
+                    "y": 3174,
+                    "plane": 0
+                }
             },
             {
                 "x": 2863,
                 "y": 9629,
                 "plane": 0,
                 "areaLabel": "Crandor and Karamja Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2845,
+                    "y": 3174,
+                    "plane": 0
+                }
             },
             {
                 "x": 2860,
                 "y": 9643,
                 "plane": 0,
                 "areaLabel": "Crandor and Karamja Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2845,
+                    "y": 3174,
+                    "plane": 0
+                }
             },
             {
                 "x": 2861,
                 "y": 9628,
                 "plane": 0,
                 "areaLabel": "Crandor and Karamja Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2845,
+                    "y": 3174,
+                    "plane": 0
+                }
             },
             {
                 "x": 3053,
@@ -10891,14 +11036,24 @@
                 "y": 4949,
                 "plane": 0,
                 "areaLabel": "Eagles' Peak Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2319,
+                    "y": 3503,
+                    "plane": 0
+                }
             },
             {
                 "x": 2020,
                 "y": 4948,
                 "plane": 0,
                 "areaLabel": "Eagles' Peak Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2319,
+                    "y": 3503,
+                    "plane": 0
+                }
             },
             {
                 "x": 3088,
@@ -12785,7 +12940,12 @@
                 "y": 4086,
                 "plane": 0,
                 "areaLabel": "Ungael",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2272,
+                    "y": 4064,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -13625,7 +13785,12 @@
                 "y": 4983,
                 "plane": 0,
                 "areaLabel": "Eagles' Peak Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2319,
+                    "y": 3503,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -13681,35 +13846,60 @@
                 "y": 9552,
                 "plane": 0,
                 "areaLabel": "Crandor and Karamja Dungeon - lesser demon area",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2845,
+                    "y": 3174,
+                    "plane": 0
+                }
             },
             {
                 "x": 2836,
                 "y": 9566,
                 "plane": 0,
                 "areaLabel": "Crandor and Karamja Dungeon - lesser demon area",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2845,
+                    "y": 3174,
+                    "plane": 0
+                }
             },
             {
                 "x": 2843,
                 "y": 9560,
                 "plane": 0,
                 "areaLabel": "Crandor and Karamja Dungeon - lesser demon area",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2845,
+                    "y": 3174,
+                    "plane": 0
+                }
             },
             {
                 "x": 2838,
                 "y": 9552,
                 "plane": 0,
                 "areaLabel": "Crandor and Karamja Dungeon - lesser demon area",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2845,
+                    "y": 3174,
+                    "plane": 0
+                }
             },
             {
                 "x": 2833,
                 "y": 9561,
                 "plane": 0,
                 "areaLabel": "Crandor and Karamja Dungeon - lesser demon area",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2845,
+                    "y": 3174,
+                    "plane": 0
+                }
             },
             {
                 "x": 1450,
@@ -15068,7 +15258,12 @@
                 "y": 10327,
                 "plane": 0,
                 "areaLabel": "Ghorrock Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2915,
+                    "y": 3935,
+                    "plane": 0
+                }
             },
             {
                 "x": 2169,
@@ -15122,7 +15317,12 @@
                 "y": 4062,
                 "plane": 0,
                 "areaLabel": "Brittle Isle",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1947,
+                    "y": 4069,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -16517,7 +16717,12 @@
                 "y": 9451,
                 "plane": 0,
                 "areaLabel": "Citlalli's basement",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1380,
+                    "y": 3052,
+                    "plane": 0
+                }
             },
             {
                 "x": 2192,
@@ -17712,7 +17917,12 @@
                 "y": 9673,
                 "plane": 0,
                 "areaLabel": "Underground Pass - first level",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2449,
+                    "y": 3312,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -18337,7 +18547,12 @@
                 "y": 9726,
                 "plane": 0,
                 "areaLabel": "Underground Pass - first level",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2449,
+                    "y": 3312,
+                    "plane": 0
+                }
             },
             {
                 "x": 2265,
@@ -18372,14 +18587,24 @@
                 "y": 10342,
                 "plane": 0,
                 "areaLabel": "Ghorrock Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2915,
+                    "y": 3935,
+                    "plane": 0
+                }
             },
             {
                 "x": 2922,
                 "y": 10326,
                 "plane": 0,
                 "areaLabel": "Ghorrock Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2915,
+                    "y": 3935,
+                    "plane": 0
+                }
             },
             {
                 "x": 1636,
@@ -18743,56 +18968,96 @@
                 "y": 9421,
                 "plane": 0,
                 "areaLabel": "Kalphite Lair - Queen's chamber",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3320,
+                    "y": 3122,
+                    "plane": 0
+                }
             },
             {
                 "x": 3182,
                 "y": 9428,
                 "plane": 0,
                 "areaLabel": "Kalphite Lair - Queen's chamber",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3320,
+                    "y": 3122,
+                    "plane": 0
+                }
             },
             {
                 "x": 3186,
                 "y": 9437,
                 "plane": 0,
                 "areaLabel": "Kalphite Lair - Queen's chamber",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3320,
+                    "y": 3122,
+                    "plane": 0
+                }
             },
             {
                 "x": 3191,
                 "y": 9411,
                 "plane": 0,
                 "areaLabel": "Kalphite Lair - Queen's chamber",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3320,
+                    "y": 3122,
+                    "plane": 0
+                }
             },
             {
                 "x": 3198,
                 "y": 9445,
                 "plane": 0,
                 "areaLabel": "Kalphite Lair - Queen's chamber",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3320,
+                    "y": 3122,
+                    "plane": 0
+                }
             },
             {
                 "x": 3172,
                 "y": 9484,
                 "plane": 0,
                 "areaLabel": "Kalphite Lair",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3320,
+                    "y": 3122,
+                    "plane": 0
+                }
             },
             {
                 "x": 3173,
                 "y": 9480,
                 "plane": 0,
                 "areaLabel": "Kalphite Lair",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3320,
+                    "y": 3122,
+                    "plane": 0
+                }
             },
             {
                 "x": 3177,
                 "y": 9477,
                 "plane": 0,
                 "areaLabel": "Kalphite Lair",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3320,
+                    "y": 3122,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -19100,7 +19365,12 @@
                 "y": 9586,
                 "plane": 0,
                 "areaLabel": "Crandor and Karamja Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2845,
+                    "y": 3174,
+                    "plane": 0
+                }
             },
             {
                 "x": 3128,
@@ -19411,14 +19681,24 @@
                 "y": 9653,
                 "plane": 0,
                 "areaLabel": "Underground Pass - first level fail area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2449,
+                    "y": 3312,
+                    "plane": 0
+                }
             },
             {
                 "x": 2448,
                 "y": 9639,
                 "plane": 0,
                 "areaLabel": "Underground Pass - first level fail area",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2449,
+                    "y": 3312,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -19432,21 +19712,36 @@
                 "y": 10163,
                 "plane": 0,
                 "areaLabel": "Brine Rat Cavern - special spawn",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2748,
+                    "y": 3736,
+                    "plane": 0
+                }
             },
             {
                 "x": 2703,
                 "y": 10155,
                 "plane": 0,
                 "areaLabel": "Brine Rat Cavern - special spawn",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2748,
+                    "y": 3736,
+                    "plane": 0
+                }
             },
             {
                 "x": 2718,
                 "y": 10163,
                 "plane": 0,
                 "areaLabel": "Brine Rat Cavern - special spawn",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2748,
+                    "y": 3736,
+                    "plane": 0
+                }
             },
             {
                 "x": 2023,
@@ -19790,21 +20085,36 @@
                 "y": 10163,
                 "plane": 0,
                 "areaLabel": "Brine Rat Cavern",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2748,
+                    "y": 3736,
+                    "plane": 0
+                }
             },
             {
                 "x": 2703,
                 "y": 10155,
                 "plane": 0,
                 "areaLabel": "Brine Rat Cavern",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2748,
+                    "y": 3736,
+                    "plane": 0
+                }
             },
             {
                 "x": 2718,
                 "y": 10163,
                 "plane": 0,
                 "areaLabel": "Brine Rat Cavern",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2748,
+                    "y": 3736,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -19839,14 +20149,24 @@
                 "y": 10157,
                 "plane": 0,
                 "areaLabel": "Brine Rat Cavern",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2748,
+                    "y": 3736,
+                    "plane": 0
+                }
             },
             {
                 "x": 2711,
                 "y": 10157,
                 "plane": 0,
                 "areaLabel": "Brine Rat Cavern",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2748,
+                    "y": 3736,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -19860,14 +20180,24 @@
                 "y": 10157,
                 "plane": 0,
                 "areaLabel": "Brine Rat Cavern",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2748,
+                    "y": 3736,
+                    "plane": 0
+                }
             },
             {
                 "x": 2711,
                 "y": 10157,
                 "plane": 0,
                 "areaLabel": "Brine Rat Cavern",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2748,
+                    "y": 3736,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -24041,7 +24371,12 @@
                 "y": 4634,
                 "plane": 0,
                 "areaLabel": "Tarn's Lair",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3440,
+                    "y": 3232,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -24462,7 +24797,12 @@
                 "y": 9800,
                 "plane": 0,
                 "areaLabel": "Underground Pass dwarf camp",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2449,
+                    "y": 3312,
+                    "plane": 0
+                }
             },
             {
                 "x": 1737,
@@ -24551,7 +24891,12 @@
                 "y": 4554,
                 "plane": 0,
                 "areaLabel": "Tarn's Lair",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3440,
+                    "y": 3232,
+                    "plane": 0
+                }
             }
         ]
     },
