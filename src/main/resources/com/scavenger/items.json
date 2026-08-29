@@ -275,7 +275,12 @@
                 "y": 3100,
                 "plane": 1,
                 "areaLabel": "Civitas illa Fortis 1st floor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -429,7 +434,12 @@
                 "y": 3033,
                 "plane": 1,
                 "areaLabel": "Desert Mining Camp",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3288,
+                    "y": 3021,
+                    "plane": 0
+                }
             },
             {
                 "x": 1560,
@@ -527,14 +537,24 @@
                 "y": 3114,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1673,
                 "y": 3155,
                 "plane": 1,
                 "areaLabel": "Civitas illa Fortis - Sunrise Palace (1st floor)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 3358,
@@ -647,7 +667,12 @@
                 "plane": 0,
                 "areaLabel": "Hunter Guild - basement",
                 "members": true,
-                "requirement": "Requires 46 Hunter"
+                "requirement": "Requires 46 Hunter",
+                "entrance": {
+                    "x": 1559,
+                    "y": 3048,
+                    "plane": 0
+                }
             },
             {
                 "x": 1380,
@@ -1141,7 +1166,12 @@
                 "y": 8884,
                 "plane": 0,
                 "areaLabel": "Charred Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2647,
+                    "y": 2404,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -1155,7 +1185,12 @@
                 "y": 3120,
                 "plane": 2,
                 "areaLabel": "Civitas illa Fortis - Pub 2nd floor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -1246,7 +1281,12 @@
                 "y": 3295,
                 "plane": 0,
                 "areaLabel": "Slepe - Rat & Bat pub",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -1433,7 +1473,12 @@
                 "plane": 0,
                 "areaLabel": "Myths' Guild basement",
                 "members": true,
-                "requirement": "Requires completion of Dragon Slayer II"
+                "requirement": "Requires completion of Dragon Slayer II",
+                "entrance": {
+                    "x": 2457,
+                    "y": 2846,
+                    "plane": 0
+                }
             },
             {
                 "x": 1923,
@@ -1441,7 +1486,12 @@
                 "plane": 0,
                 "areaLabel": "Myths' Guild basement",
                 "members": true,
-                "requirement": "Requires completion of Dragon Slayer II"
+                "requirement": "Requires completion of Dragon Slayer II",
+                "entrance": {
+                    "x": 2457,
+                    "y": 2846,
+                    "plane": 0
+                }
             },
             {
                 "x": 1927,
@@ -1449,7 +1499,12 @@
                 "plane": 0,
                 "areaLabel": "Myths' Guild basement",
                 "members": true,
-                "requirement": "Requires completion of Dragon Slayer II"
+                "requirement": "Requires completion of Dragon Slayer II",
+                "entrance": {
+                    "x": 2457,
+                    "y": 2846,
+                    "plane": 0
+                }
             },
             {
                 "x": 1925,
@@ -1457,7 +1512,12 @@
                 "plane": 0,
                 "areaLabel": "Myths' Guild basement",
                 "members": true,
-                "requirement": "Requires completion of Dragon Slayer II"
+                "requirement": "Requires completion of Dragon Slayer II",
+                "entrance": {
+                    "x": 2457,
+                    "y": 2846,
+                    "plane": 0
+                }
             },
             {
                 "x": 1932,
@@ -1465,7 +1525,12 @@
                 "plane": 0,
                 "areaLabel": "Myths' Guild basement",
                 "members": true,
-                "requirement": "Requires completion of Dragon Slayer II"
+                "requirement": "Requires completion of Dragon Slayer II",
+                "entrance": {
+                    "x": 2457,
+                    "y": 2846,
+                    "plane": 0
+                }
             },
             {
                 "x": 1928,
@@ -1473,49 +1538,84 @@
                 "plane": 0,
                 "areaLabel": "Myths' Guild basement",
                 "members": true,
-                "requirement": "Requires completion of Dragon Slayer II"
+                "requirement": "Requires completion of Dragon Slayer II",
+                "entrance": {
+                    "x": 2457,
+                    "y": 2846,
+                    "plane": 0
+                }
             },
             {
                 "x": 2135,
                 "y": 9306,
                 "plane": 0,
                 "areaLabel": "Isle of Souls Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2309,
+                    "y": 2919,
+                    "plane": 0
+                }
             },
             {
                 "x": 2129,
                 "y": 9308,
                 "plane": 0,
                 "areaLabel": "Isle of Souls Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2309,
+                    "y": 2919,
+                    "plane": 0
+                }
             },
             {
                 "x": 2127,
                 "y": 9305,
                 "plane": 0,
                 "areaLabel": "Isle of Souls Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2309,
+                    "y": 2919,
+                    "plane": 0
+                }
             },
             {
                 "x": 2120,
                 "y": 9309,
                 "plane": 0,
                 "areaLabel": "Isle of Souls Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2309,
+                    "y": 2919,
+                    "plane": 0
+                }
             },
             {
                 "x": 2121,
                 "y": 9301,
                 "plane": 0,
                 "areaLabel": "Isle of Souls Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2309,
+                    "y": 2919,
+                    "plane": 0
+                }
             },
             {
                 "x": 2126,
                 "y": 9298,
                 "plane": 0,
                 "areaLabel": "Isle of Souls Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2309,
+                    "y": 2919,
+                    "plane": 0
+                }
             },
             {
                 "x": 1643,
@@ -1620,28 +1720,48 @@
                 "y": 9497,
                 "plane": 0,
                 "areaLabel": "Dragon Nest",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1290,
+                    "y": 3135,
+                    "plane": 0
+                }
             },
             {
                 "x": 1232,
                 "y": 9492,
                 "plane": 0,
                 "areaLabel": "Dragon Nest",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1290,
+                    "y": 3135,
+                    "plane": 0
+                }
             },
             {
                 "x": 1240,
                 "y": 9492,
                 "plane": 0,
                 "areaLabel": "Dragon Nest",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1290,
+                    "y": 3135,
+                    "plane": 0
+                }
             },
             {
                 "x": 1237,
                 "y": 9488,
                 "plane": 0,
                 "areaLabel": "Dragon Nest",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1290,
+                    "y": 3135,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -1655,7 +1775,12 @@
                 "y": 4712,
                 "plane": 0,
                 "areaLabel": "Viyeldi Caves",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2782,
+                    "y": 2935,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -3153,35 +3278,60 @@
                 "y": 3349,
                 "plane": 0,
                 "areaLabel": "Slepe - Crombwick Manor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 3720,
                 "y": 3373,
                 "plane": 0,
                 "areaLabel": "Slepe - Crombwick Manor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 3723,
                 "y": 3344,
                 "plane": 0,
                 "areaLabel": "Slepe - Crombwick Manor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 3731,
                 "y": 3347,
                 "plane": 0,
                 "areaLabel": "Slepe - Crombwick Manor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 3736,
                 "y": 3351,
                 "plane": 0,
                 "areaLabel": "Slepe - Crombwick Manor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 2592,
@@ -3694,7 +3844,12 @@
                 "y": 9415,
                 "plane": 0,
                 "areaLabel": "Desert Mining Camp - underground mine",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3288,
+                    "y": 3021,
+                    "plane": 0
+                }
             },
             {
                 "x": 3364,
@@ -4874,35 +5029,60 @@
                 "y": 9764,
                 "plane": 0,
                 "areaLabel": "Entrana Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2820,
+                    "y": 3374,
+                    "plane": 0
+                }
             },
             {
                 "x": 2831,
                 "y": 9766,
                 "plane": 0,
                 "areaLabel": "Entrana Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2820,
+                    "y": 3374,
+                    "plane": 0
+                }
             },
             {
                 "x": 2857,
                 "y": 9751,
                 "plane": 0,
                 "areaLabel": "Entrana Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2820,
+                    "y": 3374,
+                    "plane": 0
+                }
             },
             {
                 "x": 2857,
                 "y": 9746,
                 "plane": 0,
                 "areaLabel": "Entrana Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2820,
+                    "y": 3374,
+                    "plane": 0
+                }
             },
             {
                 "x": 2859,
                 "y": 9746,
                 "plane": 0,
                 "areaLabel": "Entrana Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2820,
+                    "y": 3374,
+                    "plane": 0
+                }
             },
             {
                 "x": 2670,
@@ -5046,7 +5226,12 @@
                 "y": 3085,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1588,
@@ -5221,14 +5406,24 @@
                 "y": 9386,
                 "plane": 0,
                 "areaLabel": "Pandemonium Cave",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3046,
+                    "y": 2996,
+                    "plane": 0
+                }
             },
             {
                 "x": 3051,
                 "y": 9392,
                 "plane": 0,
                 "areaLabel": "Pandemonium Cave",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3046,
+                    "y": 2996,
+                    "plane": 0
+                }
             },
             {
                 "x": 2539,
@@ -5567,56 +5762,96 @@
                 "y": 9116,
                 "plane": 0,
                 "areaLabel": "Ape Atoll Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2763,
+                    "y": 2703,
+                    "plane": 0
+                }
             },
             {
                 "x": 2719,
                 "y": 9097,
                 "plane": 0,
                 "areaLabel": "Ape Atoll Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2763,
+                    "y": 2703,
+                    "plane": 0
+                }
             },
             {
                 "x": 2719,
                 "y": 9120,
                 "plane": 0,
                 "areaLabel": "Ape Atoll Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2763,
+                    "y": 2703,
+                    "plane": 0
+                }
             },
             {
                 "x": 2722,
                 "y": 9110,
                 "plane": 0,
                 "areaLabel": "Ape Atoll Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2763,
+                    "y": 2703,
+                    "plane": 0
+                }
             },
             {
                 "x": 2729,
                 "y": 9116,
                 "plane": 0,
                 "areaLabel": "Ape Atoll Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2763,
+                    "y": 2703,
+                    "plane": 0
+                }
             },
             {
                 "x": 2730,
                 "y": 9106,
                 "plane": 0,
                 "areaLabel": "Ape Atoll Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2763,
+                    "y": 2703,
+                    "plane": 0
+                }
             },
             {
                 "x": 2732,
                 "y": 9093,
                 "plane": 0,
                 "areaLabel": "Ape Atoll Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2763,
+                    "y": 2703,
+                    "plane": 0
+                }
             },
             {
                 "x": 2739,
                 "y": 9097,
                 "plane": 0,
                 "areaLabel": "Ape Atoll Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2763,
+                    "y": 2703,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -5706,21 +5941,36 @@
                 "y": 3103,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1764,
                 "y": 3102,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1764,
                 "y": 3100,
                 "plane": 1,
                 "areaLabel": "Civitas illa Fortis 1st floor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1431,
@@ -5819,28 +6069,48 @@
                 "y": 3034,
                 "plane": 0,
                 "areaLabel": "Desert Mining Camp",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3288,
+                    "y": 3021,
+                    "plane": 0
+                }
             },
             {
                 "x": 3703,
                 "y": 3331,
                 "plane": 1,
                 "areaLabel": "Slepe - eastern and western houses (1st floor)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 3742,
                 "y": 3334,
                 "plane": 1,
                 "areaLabel": "Slepe - eastern and western houses (1st floor)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 1665,
                 "y": 3120,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -5861,7 +6131,12 @@
                 "y": 3093,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis - upstairs on a table in the small building in south-west corner. Note: Ironmen cannot loot it.",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -5983,7 +6258,12 @@
                 "y": 9670,
                 "plane": 0,
                 "areaLabel": "East Ardougne - basement of the Carnillean Mansion",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2564,
+                    "y": 3275,
+                    "plane": 0
+                }
             },
             {
                 "x": 2209,
@@ -6438,28 +6718,48 @@
                 "y": 3358,
                 "plane": 0,
                 "areaLabel": "Slepe - Crombwick Manor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 3715,
                 "y": 3356,
                 "plane": 1,
                 "areaLabel": "Slepe - Crombwick Manor (1st floor)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 3717,
                 "y": 3360,
                 "plane": 1,
                 "areaLabel": "Slepe - Crombwick Manor (1st floor)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 3721,
                 "y": 3358,
                 "plane": 1,
                 "areaLabel": "Slepe - Crombwick Manor (1st floor)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 3152,
@@ -6927,7 +7227,12 @@
                 "y": 10079,
                 "plane": 0,
                 "areaLabel": "Kendal's Lair",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2809,
+                    "y": 3703,
+                    "plane": 0
+                }
             },
             {
                 "x": 1582,
@@ -7136,7 +7441,12 @@
                 "y": 10085,
                 "plane": 0,
                 "areaLabel": "Buccaneers' Laboratory",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2080,
+                    "y": 3685,
+                    "plane": 0
+                }
             },
             {
                 "x": 3140,
@@ -7164,7 +7474,12 @@
                 "y": 3356,
                 "plane": 0,
                 "areaLabel": "Slepe - Crombwick Manor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 1312,
@@ -7178,7 +7493,12 @@
                 "y": 3166,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1425,
@@ -7220,7 +7540,12 @@
                 "y": 9379,
                 "plane": 0,
                 "areaLabel": "Pandemonium Cave",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3046,
+                    "y": 2996,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -7234,14 +7559,24 @@
                 "y": 3360,
                 "plane": 0,
                 "areaLabel": "Draynor Manor (0th floor)",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3108,
+                    "y": 3358,
+                    "plane": 0
+                }
             },
             {
                 "x": 3077,
                 "y": 9778,
                 "plane": 0,
                 "areaLabel": "Draynor Manor (Count Draynor's basement)",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3108,
+                    "y": 3358,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -7255,7 +7590,12 @@
                 "y": 3114,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 3325,
@@ -7338,14 +7678,24 @@
                 "y": 9431,
                 "plane": 0,
                 "areaLabel": "Desert Mining Camp - underground mine",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3288,
+                    "y": 3021,
+                    "plane": 0
+                }
             },
             {
                 "x": 3288,
                 "y": 9442,
                 "plane": 0,
                 "areaLabel": "Desert Mining Camp - underground mine",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3288,
+                    "y": 3021,
+                    "plane": 0
+                }
             },
             {
                 "x": 3362,
@@ -7653,7 +8003,12 @@
                 "y": 3359,
                 "plane": 0,
                 "areaLabel": "Draynor Manor",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3108,
+                    "y": 3358,
+                    "plane": 0
+                }
             },
             {
                 "x": 3307,
@@ -7842,7 +8197,12 @@
                 "y": 9625,
                 "plane": 0,
                 "areaLabel": "Lumbridge Castle cellar",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3204,
+                    "y": 3237,
+                    "plane": 0
+                }
             },
             {
                 "x": 1521,
@@ -7863,7 +8223,12 @@
                 "y": 3361,
                 "plane": 0,
                 "areaLabel": "Slepe - Crombwick Manor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 2853,
@@ -7979,21 +8344,36 @@
                 "y": 3124,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1644,
                 "y": 3093,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1621,
                 "y": 9566,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis - tunnel",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1486,
@@ -8343,7 +8723,12 @@
                 "y": 3095,
                 "plane": 1,
                 "areaLabel": "Civitas illa Fortis 1st floor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1545,
@@ -8351,7 +8736,12 @@
                 "plane": 0,
                 "areaLabel": "Hunter Guild",
                 "members": true,
-                "requirement": "Requires 46 Hunter"
+                "requirement": "Requires 46 Hunter",
+                "entrance": {
+                    "x": 1559,
+                    "y": 3048,
+                    "plane": 0
+                }
             },
             {
                 "x": 1500,
@@ -8414,35 +8804,60 @@
                 "y": 5609,
                 "plane": 0,
                 "areaLabel": "Crash Site Cavern entrance",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2436,
+                    "y": 3520,
+                    "plane": 0
+                }
             },
             {
                 "x": 2025,
                 "y": 5608,
                 "plane": 0,
                 "areaLabel": "Crash Site Cavern entrance",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2436,
+                    "y": 3520,
+                    "plane": 0
+                }
             },
             {
                 "x": 2011,
                 "y": 5600,
                 "plane": 0,
                 "areaLabel": "Crash Site Cavern entrance",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2436,
+                    "y": 3520,
+                    "plane": 0
+                }
             },
             {
                 "x": 2012,
                 "y": 5596,
                 "plane": 0,
                 "areaLabel": "Crash Site Cavern entrance",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2436,
+                    "y": 3520,
+                    "plane": 0
+                }
             },
             {
                 "x": 2019,
                 "y": 5598,
                 "plane": 0,
                 "areaLabel": "Crash Site Cavern entrance",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2436,
+                    "y": 3520,
+                    "plane": 0
+                }
             },
             {
                 "x": 1484,
@@ -8984,28 +9399,48 @@
                 "y": 8856,
                 "plane": 0,
                 "areaLabel": "Charred Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2647,
+                    "y": 2404,
+                    "plane": 0
+                }
             },
             {
                 "x": 2671,
                 "y": 8857,
                 "plane": 0,
                 "areaLabel": "Charred Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2647,
+                    "y": 2404,
+                    "plane": 0
+                }
             },
             {
                 "x": 2676,
                 "y": 8862,
                 "plane": 0,
                 "areaLabel": "Charred Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2647,
+                    "y": 2404,
+                    "plane": 0
+                }
             },
             {
                 "x": 2663,
                 "y": 8863,
                 "plane": 0,
                 "areaLabel": "Charred Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2647,
+                    "y": 2404,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -9019,7 +9454,12 @@
                 "y": 9077,
                 "plane": 1,
                 "areaLabel": "Corsair Cove Resource Area",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 2477,
+                    "y": 2892,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -9075,7 +9515,12 @@
                 "y": 5621,
                 "plane": 0,
                 "areaLabel": "Crash Site Cavern entrance (unreachable)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2436,
+                    "y": 3520,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -9110,7 +9555,12 @@
                 "y": 3383,
                 "plane": 0,
                 "areaLabel": "Slepe - north-east of Crombwick Manor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 2034,
@@ -9143,7 +9593,12 @@
                 "y": 9622,
                 "plane": 0,
                 "areaLabel": "Lumbridge Castle cellar",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3204,
+                    "y": 3237,
+                    "plane": 0
+                }
             },
             {
                 "x": 1376,
@@ -9438,7 +9893,12 @@
                 "y": 3094,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 3083,
@@ -9466,7 +9926,12 @@
                 "y": 9706,
                 "plane": 0,
                 "areaLabel": "Slepe - basement of house next to Sisterhood Sanctuary entrance",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 3039,
@@ -9553,7 +10018,12 @@
                 "y": 3142,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis - on a crate in the Fortis Blacksmith store",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 2935,
@@ -9674,7 +10144,12 @@
                 "y": 3303,
                 "plane": 0,
                 "areaLabel": "Slepe - house next to Sisterhood Sanctuary entrance",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -9827,21 +10302,36 @@
                 "y": 9584,
                 "plane": 0,
                 "areaLabel": "Asgarnian Ice Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3008,
+                    "y": 3150,
+                    "plane": 0
+                }
             },
             {
                 "x": 2987,
                 "y": 9583,
                 "plane": 0,
                 "areaLabel": "Asgarnian Ice Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3008,
+                    "y": 3150,
+                    "plane": 0
+                }
             },
             {
                 "x": 2988,
                 "y": 9582,
                 "plane": 0,
                 "areaLabel": "Asgarnian Ice Dungeon",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3008,
+                    "y": 3150,
+                    "plane": 0
+                }
             },
             {
                 "x": 2765,
@@ -9932,7 +10422,12 @@
                 "y": 10068,
                 "plane": 0,
                 "areaLabel": "Buccaneers' Laboratory",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2080,
+                    "y": 3685,
+                    "plane": 0
+                }
             },
             {
                 "x": 1469,
@@ -11326,21 +11821,36 @@
                 "y": 9252,
                 "plane": 0,
                 "areaLabel": "Scabaras Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3408,
+                    "y": 2848,
+                    "plane": 0
+                }
             },
             {
                 "x": 3381,
                 "y": 9246,
                 "plane": 0,
                 "areaLabel": "Scabaras Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3408,
+                    "y": 2848,
+                    "plane": 0
+                }
             },
             {
                 "x": 3370,
                 "y": 9244,
                 "plane": 0,
                 "areaLabel": "Scabaras Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3408,
+                    "y": 2848,
+                    "plane": 0
+                }
             },
             {
                 "x": 1439,
@@ -11721,7 +12231,12 @@
                 "y": 9503,
                 "plane": 0,
                 "areaLabel": "Rashiliyia's Tomb",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2914,
+                    "y": 3088,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -12062,7 +12577,12 @@
                 "y": 3361,
                 "plane": 0,
                 "areaLabel": "Slepe - Crombwick Manor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -12279,42 +12799,72 @@
                 "y": 9635,
                 "plane": 0,
                 "areaLabel": "Mage Training Arena - Enchanting Chamber",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3364,
+                    "y": 3312,
+                    "plane": 0
+                }
             },
             {
                 "x": 3354,
                 "y": 9646,
                 "plane": 0,
                 "areaLabel": "Mage Training Arena - Enchanting Chamber",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3364,
+                    "y": 3312,
+                    "plane": 0
+                }
             },
             {
                 "x": 3359,
                 "y": 9632,
                 "plane": 0,
                 "areaLabel": "Mage Training Arena - Enchanting Chamber",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3364,
+                    "y": 3312,
+                    "plane": 0
+                }
             },
             {
                 "x": 3373,
                 "y": 9651,
                 "plane": 0,
                 "areaLabel": "Mage Training Arena - Enchanting Chamber",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3364,
+                    "y": 3312,
+                    "plane": 0
+                }
             },
             {
                 "x": 3374,
                 "y": 9643,
                 "plane": 0,
                 "areaLabel": "Mage Training Arena - Enchanting Chamber",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3364,
+                    "y": 3312,
+                    "plane": 0
+                }
             },
             {
                 "x": 3375,
                 "y": 9633,
                 "plane": 0,
                 "areaLabel": "Mage Training Arena - Enchanting Chamber",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3364,
+                    "y": 3312,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -12328,7 +12878,12 @@
                 "y": 9741,
                 "plane": 1,
                 "areaLabel": "Nature Grotto",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3441,
+                    "y": 3337,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -12375,21 +12930,36 @@
                 "y": 9875,
                 "plane": 0,
                 "areaLabel": "White Wolf Tunnel",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2877,
+                    "y": 3482,
+                    "plane": 0
+                }
             },
             {
                 "x": 2870,
                 "y": 9878,
                 "plane": 0,
                 "areaLabel": "White Wolf Tunnel",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2877,
+                    "y": 3482,
+                    "plane": 0
+                }
             },
             {
                 "x": 2861,
                 "y": 9878,
                 "plane": 0,
                 "areaLabel": "White Wolf Tunnel",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2877,
+                    "y": 3482,
+                    "plane": 0
+                }
             },
             {
                 "x": 1938,
@@ -12886,7 +13456,12 @@
                 "y": 3172,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -12900,7 +13475,12 @@
                 "y": 10287,
                 "plane": 0,
                 "areaLabel": "Miscellania and Etceteria Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2509,
+                    "y": 3846,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -12942,7 +13522,12 @@
                 "y": 3318,
                 "plane": 2,
                 "areaLabel": "Slepe - church (2nd floor)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -13186,7 +13771,12 @@
                 "y": 3357,
                 "plane": 1,
                 "areaLabel": "Draynor Manor - 1st floor",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3108,
+                    "y": 3358,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -13263,28 +13853,48 @@
                 "y": 4999,
                 "plane": 0,
                 "areaLabel": "Rogues' Den",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2906,
+                    "y": 3537,
+                    "plane": 0
+                }
             },
             {
                 "x": 2970,
                 "y": 5000,
                 "plane": 0,
                 "areaLabel": "Rogues' Den",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2906,
+                    "y": 3537,
+                    "plane": 0
+                }
             },
             {
                 "x": 3009,
                 "y": 5063,
                 "plane": 0,
                 "areaLabel": "Rogues' Den",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2906,
+                    "y": 3537,
+                    "plane": 0
+                }
             },
             {
                 "x": 3009,
                 "y": 5070,
                 "plane": 0,
                 "areaLabel": "Rogues' Den",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2906,
+                    "y": 3537,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -13482,7 +14092,12 @@
                 "y": 3176,
                 "plane": 1,
                 "areaLabel": "Civitas illa Fortis - Thieves hideout (1st floor)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -13604,7 +14219,12 @@
                 "y": 9246,
                 "plane": 0,
                 "areaLabel": "Scabaras Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3408,
+                    "y": 2848,
+                    "plane": 0
+                }
             },
             {
                 "x": 2398,
@@ -13756,7 +14376,12 @@
                 "plane": 2,
                 "areaLabel": "Hunter Guild (1st floor)",
                 "members": true,
-                "requirement": "Requires 46 Hunter"
+                "requirement": "Requires 46 Hunter",
+                "entrance": {
+                    "x": 1559,
+                    "y": 3048,
+                    "plane": 0
+                }
             },
             {
                 "x": 1560,
@@ -13764,7 +14389,12 @@
                 "plane": 2,
                 "areaLabel": "Hunter Guild (1st floor)",
                 "members": true,
-                "requirement": "Requires 46 Hunter"
+                "requirement": "Requires 46 Hunter",
+                "entrance": {
+                    "x": 1559,
+                    "y": 3048,
+                    "plane": 0
+                }
             },
             {
                 "x": 1512,
@@ -13785,7 +14415,12 @@
                 "y": 10284,
                 "plane": 0,
                 "areaLabel": "Zemouregal's Fort - basement tunnels",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2833,
+                    "y": 3858,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -13807,7 +14442,12 @@
                 "y": 9761,
                 "plane": 0,
                 "areaLabel": "Varrock - Phoenix Gang Hideout",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3244,
+                    "y": 3383,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -13835,7 +14475,12 @@
                 "y": 10313,
                 "plane": 0,
                 "areaLabel": "Deep Wilderness Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3045,
+                    "y": 3925,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -13919,7 +14564,12 @@
                 "y": 3114,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1639,
@@ -14206,7 +14856,12 @@
                 "y": 9511,
                 "plane": 0,
                 "areaLabel": "Yanille Agility Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2570,
+                    "y": 3123,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -14368,7 +15023,12 @@
                 "y": 3119,
                 "plane": 1,
                 "areaLabel": "Civitas illa Fortis 1st floor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1399,
@@ -14450,7 +15110,12 @@
                 "y": 3185,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1943,
@@ -14541,7 +15206,12 @@
                 "y": 3176,
                 "plane": 1,
                 "areaLabel": "Civitas illa Fortis 1st floor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -14605,7 +15275,12 @@
                 "plane": 0,
                 "areaLabel": "Hunter Guild",
                 "members": true,
-                "requirement": "Requires 46 Hunter"
+                "requirement": "Requires 46 Hunter",
+                "entrance": {
+                    "x": 1559,
+                    "y": 3048,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -15041,14 +15716,24 @@
                 "y": 3357,
                 "plane": 1,
                 "areaLabel": "Slepe - Crombwick Manor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 3211,
                 "y": 9625,
                 "plane": 0,
                 "areaLabel": "Lumbridge Castle cellar",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3204,
+                    "y": 3237,
+                    "plane": 0
+                }
             },
             {
                 "x": 3512,
@@ -15062,7 +15747,12 @@
                 "y": 3168,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1669,
@@ -15076,7 +15766,12 @@
                 "y": 9312,
                 "plane": 0,
                 "areaLabel": "Moonrise Brewery and Winery cellar",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1360,
+                    "y": 2922,
+                    "plane": 0
+                }
             },
             {
                 "x": 1358,
@@ -15139,7 +15834,12 @@
                 "y": 9577,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis - Barracks",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1649,
@@ -15174,7 +15874,12 @@
                 "y": 3353,
                 "plane": 0,
                 "areaLabel": "Slepe - Crombwick Manor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 2806,
@@ -15195,7 +15900,12 @@
                 "y": 3033,
                 "plane": 1,
                 "areaLabel": "Desert Mining Camp - Captain Siad's office (1st floor)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3288,
+                    "y": 3021,
+                    "plane": 0
+                }
             },
             {
                 "x": 3511,
@@ -15216,7 +15926,12 @@
                 "y": 3115,
                 "plane": 1,
                 "areaLabel": "Civitas illa Fortis 1st floor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1376,
@@ -15349,14 +16064,24 @@
                 "y": 9897,
                 "plane": 0,
                 "areaLabel": "Waterfall Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2512,
+                    "y": 3464,
+                    "plane": 0
+                }
             },
             {
                 "x": 2589,
                 "y": 9888,
                 "plane": 0,
                 "areaLabel": "Waterfall Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2512,
+                    "y": 3464,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -15503,7 +16228,12 @@
                 "y": 3095,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 3618,
@@ -15531,7 +16261,12 @@
                 "y": 9669,
                 "plane": 0,
                 "areaLabel": "East Ardougne - basement of the Carnillean Mansion",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2564,
+                    "y": 3275,
+                    "plane": 0
+                }
             },
             {
                 "x": 2523,
@@ -15587,7 +16322,12 @@
                 "y": 9625,
                 "plane": 0,
                 "areaLabel": "Lumbridge Castle cellar",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3204,
+                    "y": 3237,
+                    "plane": 0
+                }
             },
             {
                 "x": 3205,
@@ -15650,7 +16390,12 @@
                 "y": 3358,
                 "plane": 0,
                 "areaLabel": "Slepe - Crombwick Manor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 2700,
@@ -15718,7 +16463,12 @@
                 "y": 9526,
                 "plane": 0,
                 "areaLabel": "Yanille Agility Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2570,
+                    "y": 3123,
+                    "plane": 0
+                }
             },
             {
                 "x": 1497,
@@ -15844,14 +16594,24 @@
                 "y": 9615,
                 "plane": 0,
                 "areaLabel": "Lumbridge Castle cellar",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3204,
+                    "y": 3237,
+                    "plane": 0
+                }
             },
             {
                 "x": 3208,
                 "y": 9620,
                 "plane": 0,
                 "areaLabel": "Lumbridge Castle cellar",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3204,
+                    "y": 3237,
+                    "plane": 0
+                }
             },
             {
                 "x": 1531,
@@ -15893,7 +16653,12 @@
                 "y": 3186,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1629,
@@ -15949,7 +16714,12 @@
                 "y": 3115,
                 "plane": 2,
                 "areaLabel": "Civitas illa Fortis 2nd floor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1354,
@@ -16017,7 +16787,12 @@
                 "y": 10289,
                 "plane": 0,
                 "areaLabel": "Miscellania and Etceteria Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2509,
+                    "y": 3846,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -16067,7 +16842,12 @@
                 "y": 9480,
                 "plane": 0,
                 "areaLabel": "Yanille Agility Dungeon - In the area before Salarin the twisted, near the pile of rubble.",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2570,
+                    "y": 3123,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -16088,21 +16868,36 @@
                 "y": 3167,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1744,
                 "y": 3166,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1742,
                 "y": 3166,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 3089,
@@ -16439,7 +17234,12 @@
                 "y": 8891,
                 "plane": 0,
                 "areaLabel": "Charred Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2647,
+                    "y": 2404,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -16608,7 +17408,12 @@
                 "y": 9203,
                 "plane": 0,
                 "areaLabel": "Temple of Marimbo Dungeon",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2797,
+                    "y": 2787,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -16736,7 +17541,12 @@
                 "plane": 0,
                 "areaLabel": "Hunter Guild",
                 "members": true,
-                "requirement": "Requires 46 Hunter"
+                "requirement": "Requires 46 Hunter",
+                "entrance": {
+                    "x": 1559,
+                    "y": 3048,
+                    "plane": 0
+                }
             },
             {
                 "x": 1448,
@@ -16750,7 +17560,12 @@
                 "y": 3103,
                 "plane": 1,
                 "areaLabel": "Civitas illa Fortis 1st floor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1368,
@@ -16778,7 +17593,12 @@
                 "y": 9781,
                 "plane": 0,
                 "areaLabel": "Stalker Den (1st floor)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1325,
+                    "y": 3364,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -16807,7 +17627,12 @@
                 "y": 3112,
                 "plane": 2,
                 "areaLabel": "Civitas illa Fortis 2nd floor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -16835,7 +17660,12 @@
                 "y": 9755,
                 "plane": 0,
                 "areaLabel": "Draynor Manor basement",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3108,
+                    "y": 3358,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -17001,7 +17831,12 @@
                 "y": 3159,
                 "plane": 1,
                 "areaLabel": "Civitas illa Fortis - Sunrise Palace (1st floor)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1794,
@@ -17037,7 +17872,12 @@
                 "y": 3033,
                 "plane": 1,
                 "areaLabel": "Desert Mining Camp - Captain Siad's office (1st floor)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3288,
+                    "y": 3021,
+                    "plane": 0
+                }
             },
             {
                 "x": 1542,
@@ -17051,14 +17891,24 @@
                 "y": 3338,
                 "plane": 1,
                 "areaLabel": "Slepe - eastern and western houses (1st floor)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 3749,
                 "y": 3339,
                 "plane": 1,
                 "areaLabel": "Slepe - eastern and western houses (1st floor)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 1452,
@@ -17135,14 +17985,24 @@
                 "y": 3383,
                 "plane": 1,
                 "areaLabel": "Varrock - Phoenix Gang Hideout",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3244,
+                    "y": 3383,
+                    "plane": 0
+                }
             },
             {
                 "x": 3245,
                 "y": 3385,
                 "plane": 1,
                 "areaLabel": "Varrock - Phoenix Gang Hideout",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3244,
+                    "y": 3383,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -17465,7 +18325,12 @@
                 "y": 10290,
                 "plane": 1,
                 "areaLabel": "Miscellania and Etceteria Dungeon - up the lift",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2509,
+                    "y": 3846,
+                    "plane": 0
+                }
             },
             {
                 "x": 2435,
@@ -17535,7 +18400,12 @@
                 "y": 3181,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1563,
@@ -17605,7 +18475,12 @@
                 "y": 3366,
                 "plane": 0,
                 "areaLabel": "Draynor Manor",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3108,
+                    "y": 3358,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -17760,7 +18635,12 @@
                 "y": 3124,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1395,
@@ -17830,7 +18710,12 @@
                 "y": 3121,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1645,
@@ -17935,7 +18820,12 @@
                 "y": 9818,
                 "plane": 0,
                 "areaLabel": "Brimstail's cave",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2402,
+                    "y": 3419,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -17984,14 +18874,24 @@
                 "y": 5273,
                 "plane": 0,
                 "areaLabel": "Barbarian Assault lobby",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2533,
+                    "y": 3571,
+                    "plane": 0
+                }
             },
             {
                 "x": 2584,
                 "y": 5276,
                 "plane": 0,
                 "areaLabel": "Barbarian Assault lobby",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2533,
+                    "y": 3571,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -18047,7 +18947,12 @@
                 "y": 3361,
                 "plane": 0,
                 "areaLabel": "Slepe - Crombwick Manor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 3617,
@@ -18068,7 +18973,12 @@
                 "y": 3303,
                 "plane": 0,
                 "areaLabel": "Slepe - house next to Sisterhood Sanctuary entrance",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 1376,
@@ -18401,21 +19311,36 @@
                 "y": 9376,
                 "plane": 0,
                 "areaLabel": "Pandemonium Cave",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3046,
+                    "y": 2996,
+                    "plane": 0
+                }
             },
             {
                 "x": 3030,
                 "y": 9382,
                 "plane": 0,
                 "areaLabel": "Pandemonium Cave",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3046,
+                    "y": 2996,
+                    "plane": 0
+                }
             },
             {
                 "x": 3031,
                 "y": 9370,
                 "plane": 0,
                 "areaLabel": "Pandemonium Cave",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3046,
+                    "y": 2996,
+                    "plane": 0
+                }
             },
             {
                 "x": 3177,
@@ -18620,14 +19545,24 @@
                 "y": 10220,
                 "plane": 0,
                 "areaLabel": "Rellekka Hunter area - polar eagle lair",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2721,
+                    "y": 3791,
+                    "plane": 0
+                }
             },
             {
                 "x": 2731,
                 "y": 10202,
                 "plane": 0,
                 "areaLabel": "Rellekka Hunter area - polar eagle lair",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2721,
+                    "y": 3791,
+                    "plane": 0
+                }
             },
             {
                 "x": 2885,
@@ -18711,28 +19646,48 @@
                 "y": 3103,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1768,
                 "y": 3156,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1769,
                 "y": 3100,
                 "plane": 1,
                 "areaLabel": "Civitas illa Fortis (1st floor)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1628,
                 "y": 3092,
                 "plane": 1,
                 "areaLabel": "Civitas illa Fortis (1st floor)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1518,
@@ -18795,7 +19750,12 @@
                 "y": 9392,
                 "plane": 0,
                 "areaLabel": "Pandemonium Cave",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3046,
+                    "y": 2996,
+                    "plane": 0
+                }
             },
             {
                 "x": 2650,
@@ -18921,7 +19881,12 @@
                 "y": 3297,
                 "plane": 1,
                 "areaLabel": "Slepe - Rat & Bat pub (inaccessible)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -18949,7 +19914,12 @@
                 "y": 3367,
                 "plane": 0,
                 "areaLabel": "Draynor Manor",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3108,
+                    "y": 3358,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -20882,7 +21852,12 @@
                 "y": 10265,
                 "plane": 0,
                 "areaLabel": "Zemouregal's Fort - basement tunnels",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2833,
+                    "y": 3858,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -20938,7 +21913,12 @@
                 "y": 3356,
                 "plane": 0,
                 "areaLabel": "Draynor Manor",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3108,
+                    "y": 3358,
+                    "plane": 0
+                }
             },
             {
                 "x": 2930,
@@ -21014,7 +21994,12 @@
                 "y": 3103,
                 "plane": 1,
                 "areaLabel": "Civitas illa Fortis 1st floor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 3602,
@@ -21119,7 +22104,12 @@
                 "y": 10284,
                 "plane": 0,
                 "areaLabel": "Zemouregal's Fort - basement tunnels",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2833,
+                    "y": 3858,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -21203,7 +22193,12 @@
                 "y": 3382,
                 "plane": 0,
                 "areaLabel": "Slepe - north-east of Crombwick Manor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -21511,7 +22506,12 @@
                 "y": 3168,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -21525,7 +22525,12 @@
                 "y": 3095,
                 "plane": 1,
                 "areaLabel": "Civitas illa Fortis 1st floor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -21565,7 +22570,12 @@
                 "y": 3359,
                 "plane": 0,
                 "areaLabel": "Draynor Manor",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3108,
+                    "y": 3358,
+                    "plane": 0
+                }
             },
             {
                 "x": 2566,
@@ -21868,7 +22878,12 @@
                 "y": 10081,
                 "plane": 0,
                 "areaLabel": "Kendal's Lair",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2809,
+                    "y": 3703,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -21913,7 +22928,12 @@
                 "y": 9772,
                 "plane": 0,
                 "areaLabel": "Daeyalt essence mine",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3632,
+                    "y": 3340,
+                    "plane": 0
+                }
             },
             {
                 "x": 3895,
@@ -22004,7 +23024,12 @@
                 "y": 3189,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -22018,7 +23043,12 @@
                 "y": 9911,
                 "plane": 0,
                 "areaLabel": "Werewolf Agility Course",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3543,
+                    "y": 3462,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -22074,7 +23104,12 @@
                 "y": 10278,
                 "plane": 0,
                 "areaLabel": "Zemouregal's Fort - basement tunnels",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2833,
+                    "y": 3858,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -22088,7 +23123,12 @@
                 "y": 4913,
                 "plane": 0,
                 "areaLabel": "Uzer temple",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3480,
+                    "y": 3095,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -22130,7 +23170,12 @@
                 "y": 3117,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis - The Flaming Arrow",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1378,
@@ -23038,7 +24083,12 @@
                 "y": 3354,
                 "plane": 1,
                 "areaLabel": "Slepe - Crombwick Manor (1st floor)",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -23087,7 +24137,12 @@
                 "y": 3096,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1499,
@@ -23270,28 +24325,48 @@
                 "y": 5080,
                 "plane": 0,
                 "areaLabel": "Rogues' Den",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2906,
+                    "y": 3537,
+                    "plane": 0
+                }
             },
             {
                 "x": 3011,
                 "y": 5082,
                 "plane": 0,
                 "areaLabel": "Rogues' Den",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2906,
+                    "y": 3537,
+                    "plane": 0
+                }
             },
             {
                 "x": 3013,
                 "y": 5090,
                 "plane": 0,
                 "areaLabel": "Rogues' Den",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2906,
+                    "y": 3537,
+                    "plane": 0
+                }
             },
             {
                 "x": 3018,
                 "y": 5086,
                 "plane": 0,
                 "areaLabel": "Rogues' Den",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 2906,
+                    "y": 3537,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -23347,7 +24422,12 @@
                 "y": 3369,
                 "plane": 2,
                 "areaLabel": "Draynor Manor (2nd floor)",
-                "members": false
+                "members": false,
+                "entrance": {
+                    "x": 3108,
+                    "y": 3358,
+                    "plane": 0
+                }
             },
             {
                 "x": 1742,
@@ -23389,7 +24469,12 @@
                 "y": 3169,
                 "plane": 0,
                 "areaLabel": "Civitas illa Fortis",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 1725,
+                    "y": 3128,
+                    "plane": 0
+                }
             },
             {
                 "x": 1425,
@@ -23705,7 +24790,12 @@
                 "plane": 0,
                 "areaLabel": "Hunter Guild - The Burrow pub",
                 "members": true,
-                "requirement": "Requires 46 Hunter"
+                "requirement": "Requires 46 Hunter",
+                "entrance": {
+                    "x": 1559,
+                    "y": 3048,
+                    "plane": 0
+                }
             },
             {
                 "x": 1560,
@@ -23713,7 +24803,12 @@
                 "plane": 0,
                 "areaLabel": "Hunter Guild - The Burrow pub",
                 "members": true,
-                "requirement": "Requires 46 Hunter"
+                "requirement": "Requires 46 Hunter",
+                "entrance": {
+                    "x": 1559,
+                    "y": 3048,
+                    "plane": 0
+                }
             },
             {
                 "x": 1554,
@@ -23721,7 +24816,12 @@
                 "plane": 0,
                 "areaLabel": "Hunter Guild - The Burrow pub",
                 "members": true,
-                "requirement": "Requires 46 Hunter"
+                "requirement": "Requires 46 Hunter",
+                "entrance": {
+                    "x": 1559,
+                    "y": 3048,
+                    "plane": 0
+                }
             }
         ]
     },
@@ -23799,7 +24899,12 @@
                 "y": 3358,
                 "plane": 0,
                 "areaLabel": "Slepe - Crombwick Manor",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3724,
+                    "y": 3335,
+                    "plane": 0
+                }
             },
             {
                 "x": 3188,
@@ -23899,7 +25004,12 @@
                 "y": 3337,
                 "plane": 0,
                 "areaLabel": "Nature Grotto",
-                "members": true
+                "members": true,
+                "entrance": {
+                    "x": 3441,
+                    "y": 3337,
+                    "plane": 0
+                }
             }
         ]
     },
