@@ -105,7 +105,8 @@
                 "entrance": {
                     "x": 3370,
                     "y": 3428,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2351
                 }
             },
             {
@@ -117,7 +118,8 @@
                 "entrance": {
                     "x": 3370,
                     "y": 3428,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2351
                 }
             },
             {
@@ -129,7 +131,8 @@
                 "entrance": {
                     "x": 3370,
                     "y": 3428,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2351
                 }
             },
             {
@@ -141,7 +144,8 @@
                 "entrance": {
                     "x": 3370,
                     "y": 3428,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2351
                 }
             }
         ]
@@ -948,8 +952,8 @@
                 "areaLabel": "Here be minotaurs",
                 "members": true,
                 "entrance": {
-                    "x": 1953,
-                    "y": 3103,
+                    "x": 1967,
+                    "y": 3095,
                     "plane": 0
                 }
             },
@@ -960,8 +964,8 @@
                 "areaLabel": "Here be minotaurs",
                 "members": true,
                 "entrance": {
-                    "x": 1953,
-                    "y": 3103,
+                    "x": 1967,
+                    "y": 3095,
                     "plane": 0
                 }
             },
@@ -972,8 +976,8 @@
                 "areaLabel": "Here be minotaurs",
                 "members": true,
                 "entrance": {
-                    "x": 1953,
-                    "y": 3103,
+                    "x": 1967,
+                    "y": 3095,
                     "plane": 0
                 }
             },
@@ -984,8 +988,8 @@
                 "areaLabel": "Here be minotaurs",
                 "members": true,
                 "entrance": {
-                    "x": 1953,
-                    "y": 3103,
+                    "x": 1967,
+                    "y": 3095,
                     "plane": 0
                 }
             },
@@ -996,8 +1000,8 @@
                 "areaLabel": "Here be minotaurs",
                 "members": true,
                 "entrance": {
-                    "x": 1953,
-                    "y": 3103,
+                    "x": 1967,
+                    "y": 3095,
                     "plane": 0
                 }
             },
@@ -1008,8 +1012,8 @@
                 "areaLabel": "Here be minotaurs",
                 "members": true,
                 "entrance": {
-                    "x": 1953,
-                    "y": 3103,
+                    "x": 1967,
+                    "y": 3095,
                     "plane": 0
                 }
             },
@@ -1020,8 +1024,8 @@
                 "areaLabel": "Here be minotaurs",
                 "members": true,
                 "entrance": {
-                    "x": 1953,
-                    "y": 3103,
+                    "x": 1967,
+                    "y": 3095,
                     "plane": 0
                 }
             },
@@ -1032,8 +1036,8 @@
                 "areaLabel": "Here be minotaurs",
                 "members": true,
                 "entrance": {
-                    "x": 1953,
-                    "y": 3103,
+                    "x": 1967,
+                    "y": 3095,
                     "plane": 0
                 }
             },
@@ -1044,8 +1048,8 @@
                 "areaLabel": "Here be minotaurs",
                 "members": true,
                 "entrance": {
-                    "x": 1953,
-                    "y": 3103,
+                    "x": 1967,
+                    "y": 3095,
                     "plane": 0
                 }
             },
@@ -1183,8 +1187,8 @@
                 "areaLabel": "Charred Dungeon",
                 "members": true,
                 "entrance": {
-                    "x": 2647,
-                    "y": 2404,
+                    "x": 2637,
+                    "y": 2416,
                     "plane": 0
                 }
             }
@@ -1347,7 +1351,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -1359,7 +1364,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -1371,7 +1377,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -1383,7 +1390,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -1395,7 +1403,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -1407,7 +1416,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -1419,7 +1429,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -1431,7 +1442,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -1443,7 +1455,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -1455,7 +1468,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -1467,7 +1481,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -1479,7 +1494,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -1864,7 +1880,8 @@
                 "entrance": {
                     "x": 2782,
                     "y": 2935,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2900
                 }
             }
         ]
@@ -3535,7 +3552,8 @@
                 "entrance": {
                     "x": 2744,
                     "y": 3155,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 20876
                 }
             },
             {
@@ -3547,7 +3565,8 @@
                 "entrance": {
                     "x": 2744,
                     "y": 3155,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 20876
                 }
             },
             {
@@ -3559,7 +3578,8 @@
                 "entrance": {
                     "x": 2744,
                     "y": 3155,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 20876
                 }
             },
             {
@@ -3571,7 +3591,8 @@
                 "entrance": {
                     "x": 2744,
                     "y": 3155,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 20876
                 }
             },
             {
@@ -3583,7 +3604,8 @@
                 "entrance": {
                     "x": 2744,
                     "y": 3155,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 20876
                 }
             },
             {
@@ -3595,7 +3617,8 @@
                 "entrance": {
                     "x": 2744,
                     "y": 3155,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 20876
                 }
             },
             {
@@ -3607,7 +3630,8 @@
                 "entrance": {
                     "x": 2744,
                     "y": 3155,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 20876
                 }
             },
             {
@@ -3619,7 +3643,8 @@
                 "entrance": {
                     "x": 2744,
                     "y": 3155,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 20876
                 }
             },
             {
@@ -3631,7 +3656,8 @@
                 "entrance": {
                     "x": 2744,
                     "y": 3155,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 20876
                 }
             },
             {
@@ -3643,7 +3669,8 @@
                 "entrance": {
                     "x": 2744,
                     "y": 3155,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 20876
                 }
             },
             {
@@ -3655,7 +3682,8 @@
                 "entrance": {
                     "x": 2744,
                     "y": 3155,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 20876
                 }
             },
             {
@@ -3667,7 +3695,8 @@
                 "entrance": {
                     "x": 2744,
                     "y": 3155,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 20876
                 }
             },
             {
@@ -3705,7 +3734,8 @@
                 "entrance": {
                     "x": 2715,
                     "y": 2789,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 28810
                 }
             },
             {
@@ -3717,7 +3747,8 @@
                 "entrance": {
                     "x": 2715,
                     "y": 2789,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 28810
                 }
             },
             {
@@ -3729,7 +3760,8 @@
                 "entrance": {
                     "x": 2715,
                     "y": 2789,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 28810
                 }
             },
             {
@@ -3741,7 +3773,8 @@
                 "entrance": {
                     "x": 2715,
                     "y": 2789,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 28810
                 }
             },
             {
@@ -3753,7 +3786,8 @@
                 "entrance": {
                     "x": 2715,
                     "y": 2789,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 28810
                 }
             },
             {
@@ -3765,7 +3799,8 @@
                 "entrance": {
                     "x": 2715,
                     "y": 2789,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 28810
                 }
             },
             {
@@ -3777,7 +3812,8 @@
                 "entrance": {
                     "x": 2715,
                     "y": 2789,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 28810
                 }
             },
             {
@@ -3789,7 +3825,8 @@
                 "entrance": {
                     "x": 2715,
                     "y": 2789,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 28810
                 }
             },
             {
@@ -3801,7 +3838,8 @@
                 "entrance": {
                     "x": 2715,
                     "y": 2789,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 28810
                 }
             },
             {
@@ -3813,7 +3851,8 @@
                 "entrance": {
                     "x": 2715,
                     "y": 2789,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 28810
                 }
             },
             {
@@ -3825,7 +3864,8 @@
                 "entrance": {
                     "x": 2715,
                     "y": 2789,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 28810
                 }
             },
             {
@@ -3837,7 +3877,8 @@
                 "entrance": {
                     "x": 2715,
                     "y": 2789,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 28810
                 }
             },
             {
@@ -3849,7 +3890,8 @@
                 "entrance": {
                     "x": 2715,
                     "y": 2789,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 28810
                 }
             },
             {
@@ -3861,7 +3903,8 @@
                 "entrance": {
                     "x": 2715,
                     "y": 2789,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 28810
                 }
             },
             {
@@ -3873,7 +3916,8 @@
                 "entrance": {
                     "x": 2715,
                     "y": 2789,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 28810
                 }
             },
             {
@@ -3885,7 +3929,8 @@
                 "entrance": {
                     "x": 2715,
                     "y": 2789,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 28810
                 }
             },
             {
@@ -3897,7 +3942,8 @@
                 "entrance": {
                     "x": 2715,
                     "y": 2789,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 28810
                 }
             },
             {
@@ -3909,7 +3955,8 @@
                 "entrance": {
                     "x": 2715,
                     "y": 2789,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 28810
                 }
             },
             {
@@ -3921,7 +3968,8 @@
                 "entrance": {
                     "x": 2715,
                     "y": 2789,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 28810
                 }
             },
             {
@@ -3933,7 +3981,8 @@
                 "entrance": {
                     "x": 2715,
                     "y": 2789,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 28810
                 }
             },
             {
@@ -3957,7 +4006,8 @@
                 "entrance": {
                     "x": 3370,
                     "y": 3428,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2351
                 }
             },
             {
@@ -3969,7 +4019,8 @@
                 "entrance": {
                     "x": 3370,
                     "y": 3428,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2351
                 }
             },
             {
@@ -3981,7 +4032,8 @@
                 "entrance": {
                     "x": 3370,
                     "y": 3428,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2351
                 }
             },
             {
@@ -3993,7 +4045,8 @@
                 "entrance": {
                     "x": 3370,
                     "y": 3428,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2351
                 }
             },
             {
@@ -4005,7 +4058,8 @@
                 "entrance": {
                     "x": 3370,
                     "y": 3428,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2351
                 }
             },
             {
@@ -4017,7 +4071,8 @@
                 "entrance": {
                     "x": 3370,
                     "y": 3428,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2351
                 }
             },
             {
@@ -4029,7 +4084,8 @@
                 "entrance": {
                     "x": 3370,
                     "y": 3428,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2351
                 }
             },
             {
@@ -4041,7 +4097,8 @@
                 "entrance": {
                     "x": 3370,
                     "y": 3428,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2351
                 }
             },
             {
@@ -4053,7 +4110,8 @@
                 "entrance": {
                     "x": 3370,
                     "y": 3428,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2351
                 }
             },
             {
@@ -4065,7 +4123,8 @@
                 "entrance": {
                     "x": 3370,
                     "y": 3428,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2351
                 }
             },
             {
@@ -4077,7 +4136,8 @@
                 "entrance": {
                     "x": 3370,
                     "y": 3428,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2351
                 }
             },
             {
@@ -4467,7 +4527,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -4479,7 +4540,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -4491,7 +4553,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -4503,7 +4566,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -4515,7 +4579,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -4527,7 +4592,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -4539,7 +4605,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -4551,7 +4618,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -4563,7 +4631,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -4575,7 +4644,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -4587,7 +4657,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -4599,7 +4670,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -4611,7 +4683,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -4623,7 +4696,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -4635,7 +4709,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -4647,7 +4722,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -4659,7 +4735,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -4671,7 +4748,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -4683,7 +4761,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -4695,7 +4774,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -4707,7 +4787,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -4719,7 +4800,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -4878,7 +4960,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -4890,7 +4973,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -4902,7 +4986,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -4914,7 +4999,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -4926,7 +5012,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -4938,7 +5025,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -4950,7 +5038,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -4962,7 +5051,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -4974,7 +5064,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -4986,7 +5077,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -4998,7 +5090,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -5010,7 +5103,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -5022,7 +5116,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -5034,7 +5129,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -5046,7 +5142,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -5058,7 +5155,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -5070,7 +5168,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -5082,7 +5181,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -5094,7 +5194,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -5106,7 +5207,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -5118,7 +5220,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -5130,7 +5233,8 @@
                 "entrance": {
                     "x": 2820,
                     "y": 3374,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2408
                 }
             },
             {
@@ -5142,7 +5246,8 @@
                 "entrance": {
                     "x": 2820,
                     "y": 3374,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2408
                 }
             },
             {
@@ -5154,7 +5259,8 @@
                 "entrance": {
                     "x": 2820,
                     "y": 3374,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2408
                 }
             },
             {
@@ -5166,7 +5272,8 @@
                 "entrance": {
                     "x": 2820,
                     "y": 3374,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2408
                 }
             },
             {
@@ -5178,7 +5285,8 @@
                 "entrance": {
                     "x": 2820,
                     "y": 3374,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2408
                 }
             },
             {
@@ -5190,7 +5298,8 @@
                 "entrance": {
                     "x": 2677,
                     "y": 3405,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 17384
                 }
             },
             {
@@ -5202,7 +5311,8 @@
                 "entrance": {
                     "x": 2677,
                     "y": 3405,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 17384
                 }
             },
             {
@@ -5214,7 +5324,8 @@
                 "entrance": {
                     "x": 2677,
                     "y": 3405,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 17384
                 }
             },
             {
@@ -5226,7 +5337,8 @@
                 "entrance": {
                     "x": 2677,
                     "y": 3405,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 17384
                 }
             },
             {
@@ -5238,7 +5350,8 @@
                 "entrance": {
                     "x": 2677,
                     "y": 3405,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 17384
                 }
             },
             {
@@ -5883,7 +5996,8 @@
                 "entrance": {
                     "x": 2763,
                     "y": 2703,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4780
                 }
             },
             {
@@ -5895,7 +6009,8 @@
                 "entrance": {
                     "x": 2763,
                     "y": 2703,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4780
                 }
             },
             {
@@ -5907,7 +6022,8 @@
                 "entrance": {
                     "x": 2763,
                     "y": 2703,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4780
                 }
             },
             {
@@ -5919,7 +6035,8 @@
                 "entrance": {
                     "x": 2763,
                     "y": 2703,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4780
                 }
             },
             {
@@ -5931,7 +6048,8 @@
                 "entrance": {
                     "x": 2763,
                     "y": 2703,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4780
                 }
             },
             {
@@ -5943,7 +6061,8 @@
                 "entrance": {
                     "x": 2763,
                     "y": 2703,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4780
                 }
             },
             {
@@ -5955,7 +6074,8 @@
                 "entrance": {
                     "x": 2763,
                     "y": 2703,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4780
                 }
             },
             {
@@ -5967,7 +6087,8 @@
                 "entrance": {
                     "x": 2763,
                     "y": 2703,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4780
                 }
             }
         ]
@@ -5986,7 +6107,8 @@
                 "entrance": {
                     "x": 2677,
                     "y": 3405,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 17384
                 }
             }
         ]
@@ -6331,7 +6453,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -6343,7 +6466,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -6355,7 +6479,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -6367,7 +6492,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -6747,7 +6873,8 @@
                 "entrance": {
                     "x": 2677,
                     "y": 3405,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 17384
                 }
             },
             {
@@ -6759,7 +6886,8 @@
                 "entrance": {
                     "x": 2677,
                     "y": 3405,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 17384
                 }
             },
             {
@@ -6771,7 +6899,8 @@
                 "entrance": {
                     "x": 2677,
                     "y": 3405,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 17384
                 }
             },
             {
@@ -7348,7 +7477,8 @@
                 "entrance": {
                     "x": 2809,
                     "y": 3703,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 5857
                 }
             },
             {
@@ -7381,7 +7511,8 @@
                 "entrance": {
                     "x": 2744,
                     "y": 3155,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 20876
                 }
             },
             {
@@ -7512,7 +7643,8 @@
                 "entrance": {
                     "x": 3018,
                     "y": 3450,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 11867
                 }
             },
             {
@@ -7538,7 +7670,8 @@
                 "entrance": {
                     "x": 3440,
                     "y": 3232,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4913
                 }
             },
             {
@@ -7550,7 +7683,8 @@
                 "entrance": {
                     "x": 3440,
                     "y": 3232,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4913
                 }
             },
             {
@@ -7737,7 +7871,8 @@
                 "entrance": {
                     "x": 3440,
                     "y": 3232,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4913
                 }
             },
             {
@@ -7749,7 +7884,8 @@
                 "entrance": {
                     "x": 3440,
                     "y": 3232,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4913
                 }
             },
             {
@@ -7761,7 +7897,8 @@
                 "entrance": {
                     "x": 3440,
                     "y": 3232,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4913
                 }
             },
             {
@@ -7773,7 +7910,8 @@
                 "entrance": {
                     "x": 3440,
                     "y": 3232,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4913
                 }
             },
             {
@@ -7985,7 +8123,8 @@
                 "entrance": {
                     "x": 3440,
                     "y": 3232,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4913
                 }
             }
         ]
@@ -8088,7 +8227,8 @@
                 "entrance": {
                     "x": 3370,
                     "y": 3428,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2351
                 }
             },
             {
@@ -8100,7 +8240,8 @@
                 "entrance": {
                     "x": 3370,
                     "y": 3428,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2351
                 }
             },
             {
@@ -8112,7 +8253,8 @@
                 "entrance": {
                     "x": 3370,
                     "y": 3428,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2351
                 }
             },
             {
@@ -8405,7 +8547,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -8439,7 +8582,8 @@
                 "entrance": {
                     "x": 2677,
                     "y": 3405,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 17384
                 }
             },
             {
@@ -9333,7 +9477,8 @@
                 "entrance": {
                     "x": 1435,
                     "y": 3668,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 30236
                 }
             },
             {
@@ -9345,7 +9490,8 @@
                 "entrance": {
                     "x": 1435,
                     "y": 3668,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 30236
                 }
             },
             {
@@ -9357,7 +9503,8 @@
                 "entrance": {
                     "x": 1435,
                     "y": 3668,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 30236
                 }
             },
             {
@@ -9369,7 +9516,8 @@
                 "entrance": {
                     "x": 1435,
                     "y": 3668,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 30236
                 }
             },
             {
@@ -9381,7 +9529,8 @@
                 "entrance": {
                     "x": 1435,
                     "y": 3668,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 30236
                 }
             },
             {
@@ -9393,7 +9542,8 @@
                 "entrance": {
                     "x": 1435,
                     "y": 3668,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 30236
                 }
             },
             {
@@ -9405,7 +9555,8 @@
                 "entrance": {
                     "x": 1435,
                     "y": 3668,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 30236
                 }
             },
             {
@@ -9417,7 +9568,8 @@
                 "entrance": {
                     "x": 1435,
                     "y": 3668,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 30236
                 }
             },
             {
@@ -9523,8 +9675,8 @@
                 "areaLabel": "Charred Dungeon",
                 "members": true,
                 "entrance": {
-                    "x": 2647,
-                    "y": 2404,
+                    "x": 2637,
+                    "y": 2416,
                     "plane": 0
                 }
             },
@@ -9535,8 +9687,8 @@
                 "areaLabel": "Charred Dungeon",
                 "members": true,
                 "entrance": {
-                    "x": 2647,
-                    "y": 2404,
+                    "x": 2637,
+                    "y": 2416,
                     "plane": 0
                 }
             },
@@ -9547,8 +9699,8 @@
                 "areaLabel": "Charred Dungeon",
                 "members": true,
                 "entrance": {
-                    "x": 2647,
-                    "y": 2404,
+                    "x": 2637,
+                    "y": 2416,
                     "plane": 0
                 }
             },
@@ -9559,8 +9711,8 @@
                 "areaLabel": "Charred Dungeon",
                 "members": true,
                 "entrance": {
-                    "x": 2647,
-                    "y": 2404,
+                    "x": 2637,
+                    "y": 2416,
                     "plane": 0
                 }
             }
@@ -9693,7 +9845,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             }
         ]
@@ -10113,7 +10266,8 @@
                 "entrance": {
                     "x": 3440,
                     "y": 3232,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4913
                 }
             },
             {
@@ -10125,7 +10279,8 @@
                 "entrance": {
                     "x": 3440,
                     "y": 3232,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4913
                 }
             },
             {
@@ -10380,7 +10535,8 @@
                 "entrance": {
                     "x": 3440,
                     "y": 3232,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4913
                 }
             },
             {
@@ -10392,7 +10548,8 @@
                 "entrance": {
                     "x": 3440,
                     "y": 3232,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4913
                 }
             },
             {
@@ -10404,7 +10561,8 @@
                 "entrance": {
                     "x": 3440,
                     "y": 3232,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4913
                 }
             },
             {
@@ -10416,7 +10574,8 @@
                 "entrance": {
                     "x": 3440,
                     "y": 3232,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4913
                 }
             },
             {
@@ -10428,7 +10587,8 @@
                 "entrance": {
                     "x": 3008,
                     "y": 3150,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 1738
                 }
             },
             {
@@ -10440,7 +10600,8 @@
                 "entrance": {
                     "x": 3008,
                     "y": 3150,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 1738
                 }
             },
             {
@@ -10452,7 +10613,8 @@
                 "entrance": {
                     "x": 3008,
                     "y": 3150,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 1738
                 }
             },
             {
@@ -10581,7 +10743,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10593,7 +10756,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10605,7 +10769,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10617,7 +10782,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10629,7 +10795,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10641,7 +10808,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10653,7 +10821,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10665,7 +10834,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10677,7 +10847,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10689,7 +10860,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10701,7 +10873,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10713,7 +10886,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10725,7 +10899,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10737,7 +10912,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10749,7 +10925,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10761,7 +10938,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10773,7 +10951,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10785,7 +10964,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10797,7 +10977,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10809,7 +10990,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10821,7 +11003,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10833,7 +11016,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10845,7 +11029,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10857,7 +11042,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10869,7 +11055,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -10981,7 +11168,8 @@
                 "entrance": {
                     "x": 3018,
                     "y": 3450,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 11867
                 }
             },
             {
@@ -10993,7 +11181,8 @@
                 "entrance": {
                     "x": 3018,
                     "y": 3450,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 11867
                 }
             },
             {
@@ -11987,7 +12176,8 @@
                 "entrance": {
                     "x": 3408,
                     "y": 2848,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 6643
                 }
             },
             {
@@ -11999,7 +12189,8 @@
                 "entrance": {
                     "x": 3408,
                     "y": 2848,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 6643
                 }
             },
             {
@@ -12011,7 +12202,8 @@
                 "entrance": {
                     "x": 3408,
                     "y": 2848,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 6643
                 }
             },
             {
@@ -12079,7 +12271,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -12091,7 +12284,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -12103,7 +12297,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -12115,7 +12310,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -12127,7 +12323,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -12139,7 +12336,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -12151,7 +12349,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -12163,7 +12362,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -12175,7 +12375,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             },
             {
@@ -13049,7 +13250,8 @@
                 "entrance": {
                     "x": 3441,
                     "y": 3337,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 3516
                 }
             }
         ]
@@ -13068,7 +13270,8 @@
                 "entrance": {
                     "x": 2884,
                     "y": 3398,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 16680
                 }
             }
         ]
@@ -13101,7 +13304,8 @@
                 "entrance": {
                     "x": 2877,
                     "y": 3482,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 57
                 }
             },
             {
@@ -13113,7 +13317,8 @@
                 "entrance": {
                     "x": 2877,
                     "y": 3482,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 57
                 }
             },
             {
@@ -13125,7 +13330,8 @@
                 "entrance": {
                     "x": 2877,
                     "y": 3482,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 57
                 }
             },
             {
@@ -13646,7 +13852,8 @@
                 "entrance": {
                     "x": 2509,
                     "y": 3846,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 15116
                 }
             }
         ]
@@ -13922,7 +14129,8 @@
                 "entrance": {
                     "x": 1435,
                     "y": 3668,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 30236
                 }
             },
             {
@@ -13934,7 +14142,8 @@
                 "entrance": {
                     "x": 1435,
                     "y": 3668,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 30236
                 }
             },
             {
@@ -13946,7 +14155,8 @@
                 "entrance": {
                     "x": 1435,
                     "y": 3668,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 30236
                 }
             },
             {
@@ -13958,7 +14168,8 @@
                 "entrance": {
                     "x": 1435,
                     "y": 3668,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 30236
                 }
             }
         ]
@@ -14059,7 +14270,8 @@
                 "entrance": {
                     "x": 2906,
                     "y": 3537,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 7257
                 }
             },
             {
@@ -14071,7 +14283,8 @@
                 "entrance": {
                     "x": 2906,
                     "y": 3537,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 7257
                 }
             },
             {
@@ -14083,7 +14296,8 @@
                 "entrance": {
                     "x": 2906,
                     "y": 3537,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 7257
                 }
             },
             {
@@ -14095,7 +14309,8 @@
                 "entrance": {
                     "x": 2906,
                     "y": 3537,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 7257
                 }
             }
         ]
@@ -14226,7 +14441,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -14238,7 +14454,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -14250,7 +14467,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -14262,7 +14480,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -14274,7 +14493,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -14286,7 +14506,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -14331,7 +14552,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             }
         ]
@@ -14406,7 +14628,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -14425,7 +14648,8 @@
                 "entrance": {
                     "x": 3408,
                     "y": 2848,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 6643
                 }
             },
             {
@@ -14888,7 +15112,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             },
             {
@@ -15262,7 +15487,8 @@
                 "entrance": {
                     "x": 2744,
                     "y": 3155,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 20876
                 }
             },
             {
@@ -15625,7 +15851,8 @@
                 "entrance": {
                     "x": 3370,
                     "y": 3428,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2351
                 }
             },
             {
@@ -15637,7 +15864,8 @@
                 "entrance": {
                     "x": 3370,
                     "y": 3428,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2351
                 }
             },
             {
@@ -15649,7 +15877,8 @@
                 "entrance": {
                     "x": 3370,
                     "y": 3428,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2351
                 }
             },
             {
@@ -16280,7 +16509,8 @@
                 "entrance": {
                     "x": 2512,
                     "y": 3464,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2010
                 }
             },
             {
@@ -16292,7 +16522,8 @@
                 "entrance": {
                     "x": 2512,
                     "y": 3464,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 2010
                 }
             }
         ]
@@ -16625,7 +16856,8 @@
                 "entrance": {
                     "x": 2677,
                     "y": 3405,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 17384
                 }
             },
             {
@@ -16989,7 +17221,8 @@
                 "entrance": {
                     "x": 2677,
                     "y": 3405,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 17384
                 }
             }
         ]
@@ -17008,7 +17241,8 @@
                 "entrance": {
                     "x": 2509,
                     "y": 3846,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 15116
                 }
             }
         ]
@@ -17453,8 +17687,8 @@
                 "areaLabel": "Charred Dungeon",
                 "members": true,
                 "entrance": {
-                    "x": 2647,
-                    "y": 2404,
+                    "x": 2637,
+                    "y": 2416,
                     "plane": 0
                 }
             }
@@ -17900,7 +18134,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             }
         ]
@@ -18551,7 +18786,8 @@
                 "entrance": {
                     "x": 2509,
                     "y": 3846,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 15116
                 }
             },
             {
@@ -19101,7 +19337,8 @@
                 "entrance": {
                     "x": 2402,
                     "y": 3419,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 17209
                 }
             }
         ]
@@ -19155,7 +19392,8 @@
                 "entrance": {
                     "x": 2533,
                     "y": 3571,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 20226
                 }
             },
             {
@@ -19167,7 +19405,8 @@
                 "entrance": {
                     "x": 2533,
                     "y": 3571,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 20226
                 }
             }
         ]
@@ -19273,7 +19512,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             }
         ]
@@ -19292,7 +19532,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             }
         ]
@@ -19765,7 +20006,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -19777,7 +20019,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -19789,7 +20032,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -22287,7 +22531,8 @@
                 "entrance": {
                     "x": 2677,
                     "y": 3405,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 17384
                 }
             }
         ]
@@ -22905,7 +23150,8 @@
                 "entrance": {
                     "x": 2523,
                     "y": 2861,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 31791
                 }
             },
             {
@@ -23091,7 +23337,8 @@
                 "entrance": {
                     "x": 2677,
                     "y": 3405,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 17384
                 }
             }
         ]
@@ -23178,7 +23425,8 @@
                 "entrance": {
                     "x": 2744,
                     "y": 3155,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 20876
                 }
             }
         ]
@@ -23225,7 +23473,8 @@
                 "entrance": {
                     "x": 2809,
                     "y": 3703,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 5857
                 }
             }
         ]
@@ -23244,7 +23493,8 @@
                 "entrance": {
                     "x": 3440,
                     "y": 3232,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4913
                 }
             }
         ]
@@ -23263,7 +23513,8 @@
                 "entrance": {
                     "x": 3440,
                     "y": 3232,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4913
                 }
             },
             {
@@ -23550,7 +23801,8 @@
                 "entrance": {
                     "x": 2459,
                     "y": 3184,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 25432
                 }
             }
         ]
@@ -24388,7 +24640,8 @@
                 "entrance": {
                     "x": 3440,
                     "y": 3232,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4913
                 }
             }
         ]
@@ -24677,7 +24930,8 @@
                 "entrance": {
                     "x": 2906,
                     "y": 3537,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 7257
                 }
             },
             {
@@ -24689,7 +24943,8 @@
                 "entrance": {
                     "x": 2906,
                     "y": 3537,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 7257
                 }
             },
             {
@@ -24701,7 +24956,8 @@
                 "entrance": {
                     "x": 2906,
                     "y": 3537,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 7257
                 }
             },
             {
@@ -24713,7 +24969,8 @@
                 "entrance": {
                     "x": 2906,
                     "y": 3537,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 7257
                 }
             }
         ]
@@ -24908,7 +25165,8 @@
                 "entrance": {
                     "x": 3440,
                     "y": 3232,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 4913
                 }
             }
         ]
@@ -25366,7 +25624,8 @@
                 "entrance": {
                     "x": 3441,
                     "y": 3337,
-                    "plane": 0
+                    "plane": 0,
+                    "objectId": 3516
                 }
             }
         ]
