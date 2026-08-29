@@ -281,8 +281,8 @@
                 "areaLabel": "Civitas illa Fortis 1st floor",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -544,8 +544,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -557,8 +557,8 @@
                 "areaLabel": "Civitas illa Fortis - Sunrise Palace (1st floor)",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -677,7 +677,7 @@
                 "requirement": "Requires 46 Hunter",
                 "entrance": {
                     "x": 1559,
-                    "y": 3048,
+                    "y": 3045,
                     "plane": 0,
                     "objectId": 51643
                 }
@@ -1222,8 +1222,8 @@
                 "areaLabel": "Civitas illa Fortis - Pub 2nd floor",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -1523,8 +1523,8 @@
                 "members": true,
                 "requirement": "Requires completion of Dragon Slayer II",
                 "entrance": {
-                    "x": 2457,
-                    "y": 2846,
+                    "x": 2455,
+                    "y": 2836,
                     "plane": 0,
                     "objectId": 31627
                 }
@@ -1537,8 +1537,8 @@
                 "members": true,
                 "requirement": "Requires completion of Dragon Slayer II",
                 "entrance": {
-                    "x": 2457,
-                    "y": 2846,
+                    "x": 2455,
+                    "y": 2836,
                     "plane": 0,
                     "objectId": 31627
                 }
@@ -1551,8 +1551,8 @@
                 "members": true,
                 "requirement": "Requires completion of Dragon Slayer II",
                 "entrance": {
-                    "x": 2457,
-                    "y": 2846,
+                    "x": 2455,
+                    "y": 2836,
                     "plane": 0,
                     "objectId": 31627
                 }
@@ -1565,8 +1565,8 @@
                 "members": true,
                 "requirement": "Requires completion of Dragon Slayer II",
                 "entrance": {
-                    "x": 2457,
-                    "y": 2846,
+                    "x": 2455,
+                    "y": 2836,
                     "plane": 0,
                     "objectId": 31627
                 }
@@ -1579,8 +1579,8 @@
                 "members": true,
                 "requirement": "Requires completion of Dragon Slayer II",
                 "entrance": {
-                    "x": 2457,
-                    "y": 2846,
+                    "x": 2455,
+                    "y": 2836,
                     "plane": 0,
                     "objectId": 31627
                 }
@@ -1593,8 +1593,8 @@
                 "members": true,
                 "requirement": "Requires completion of Dragon Slayer II",
                 "entrance": {
-                    "x": 2457,
-                    "y": 2846,
+                    "x": 2455,
+                    "y": 2836,
                     "plane": 0,
                     "objectId": 31627
                 }
@@ -5522,8 +5522,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -6296,8 +6296,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -6309,8 +6309,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -6322,8 +6322,8 @@
                 "areaLabel": "Civitas illa Fortis 1st floor",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -6466,8 +6466,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -6493,8 +6493,8 @@
                 "areaLabel": "Civitas illa Fortis - upstairs on a table in the small building in south-west corner. Note: Ironmen cannot loot it.",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -6627,8 +6627,8 @@
                 "areaLabel": "East Ardougne - basement of the Carnillean Mansion",
                 "members": true,
                 "entrance": {
-                    "x": 2564,
-                    "y": 3275,
+                    "x": 2568,
+                    "y": 3268,
                     "plane": 0,
                     "objectId": 46704
                 }
@@ -7821,8 +7821,8 @@
                 "areaLabel": "Buccaneers' Laboratory",
                 "members": true,
                 "entrance": {
-                    "x": 2080,
-                    "y": 3685,
+                    "x": 2075,
+                    "y": 3688,
                     "plane": 0,
                     "objectId": 60093
                 }
@@ -7874,8 +7874,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -7975,8 +7975,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -8592,8 +8592,8 @@
                 "areaLabel": "Lumbridge Castle cellar",
                 "members": false,
                 "entrance": {
-                    "x": 3204,
-                    "y": 3237,
+                    "x": 3211,
+                    "y": 3242,
                     "plane": 0,
                     "objectId": 16683
                 }
@@ -8742,8 +8742,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -8755,8 +8755,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -8768,8 +8768,8 @@
                 "areaLabel": "Civitas illa Fortis - tunnel",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -9124,8 +9124,8 @@
                 "areaLabel": "Civitas illa Fortis 1st floor",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -9139,7 +9139,7 @@
                 "requirement": "Requires 46 Hunter",
                 "entrance": {
                     "x": 1559,
-                    "y": 3048,
+                    "y": 3045,
                     "plane": 0,
                     "objectId": 51643
                 }
@@ -9616,8 +9616,8 @@
                 "areaLabel": "Chasm of Fire - lowest level",
                 "members": true,
                 "entrance": {
-                    "x": 1435,
-                    "y": 3668,
+                    "x": 1436,
+                    "y": 3671,
                     "plane": 0,
                     "objectId": 30236
                 }
@@ -9629,8 +9629,8 @@
                 "areaLabel": "Chasm of Fire - lowest level",
                 "members": true,
                 "entrance": {
-                    "x": 1435,
-                    "y": 3668,
+                    "x": 1436,
+                    "y": 3671,
                     "plane": 0,
                     "objectId": 30236
                 }
@@ -9642,8 +9642,8 @@
                 "areaLabel": "Chasm of Fire - lowest level",
                 "members": true,
                 "entrance": {
-                    "x": 1435,
-                    "y": 3668,
+                    "x": 1436,
+                    "y": 3671,
                     "plane": 0,
                     "objectId": 30236
                 }
@@ -9655,8 +9655,8 @@
                 "areaLabel": "Chasm of Fire - lowest level",
                 "members": true,
                 "entrance": {
-                    "x": 1435,
-                    "y": 3668,
+                    "x": 1436,
+                    "y": 3671,
                     "plane": 0,
                     "objectId": 30236
                 }
@@ -9668,8 +9668,8 @@
                 "areaLabel": "Chasm of Fire - lowest level",
                 "members": true,
                 "entrance": {
-                    "x": 1435,
-                    "y": 3668,
+                    "x": 1436,
+                    "y": 3671,
                     "plane": 0,
                     "objectId": 30236
                 }
@@ -9681,8 +9681,8 @@
                 "areaLabel": "Chasm of Fire - lowest level",
                 "members": true,
                 "entrance": {
-                    "x": 1435,
-                    "y": 3668,
+                    "x": 1436,
+                    "y": 3671,
                     "plane": 0,
                     "objectId": 30236
                 }
@@ -9694,8 +9694,8 @@
                 "areaLabel": "Chasm of Fire - lowest level",
                 "members": true,
                 "entrance": {
-                    "x": 1435,
-                    "y": 3668,
+                    "x": 1436,
+                    "y": 3671,
                     "plane": 0,
                     "objectId": 30236
                 }
@@ -9707,8 +9707,8 @@
                 "areaLabel": "Chasm of Fire - lowest level",
                 "members": true,
                 "entrance": {
-                    "x": 1435,
-                    "y": 3668,
+                    "x": 1436,
+                    "y": 3671,
                     "plane": 0,
                     "objectId": 30236
                 }
@@ -9872,8 +9872,8 @@
                 "areaLabel": "Corsair Cove Resource Area",
                 "members": false,
                 "entrance": {
-                    "x": 2477,
-                    "y": 2892,
+                    "x": 2482,
+                    "y": 2890,
                     "plane": 0,
                     "objectId": 31766
                 }
@@ -10013,8 +10013,8 @@
                 "areaLabel": "Lumbridge Castle cellar",
                 "members": false,
                 "entrance": {
-                    "x": 3204,
-                    "y": 3237,
+                    "x": 3211,
+                    "y": 3242,
                     "plane": 0,
                     "objectId": 16683
                 }
@@ -10314,8 +10314,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -10442,8 +10442,8 @@
                 "areaLabel": "Civitas illa Fortis - on a crate in the Fortis Blacksmith store",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -10854,8 +10854,8 @@
                 "areaLabel": "Buccaneers' Laboratory",
                 "members": true,
                 "entrance": {
-                    "x": 2080,
-                    "y": 3685,
+                    "x": 2075,
+                    "y": 3688,
                     "plane": 0,
                     "objectId": 60093
                 }
@@ -11381,8 +11381,8 @@
                 "areaLabel": "Eagles' Peak Dungeon",
                 "members": true,
                 "entrance": {
-                    "x": 2319,
-                    "y": 3503,
+                    "x": 2322,
+                    "y": 3501,
                     "plane": 0,
                     "objectId": 19849
                 }
@@ -11394,8 +11394,8 @@
                 "areaLabel": "Eagles' Peak Dungeon",
                 "members": true,
                 "entrance": {
-                    "x": 2319,
-                    "y": 3503,
+                    "x": 2322,
+                    "y": 3501,
                     "plane": 0,
                     "objectId": 19849
                 }
@@ -12384,8 +12384,8 @@
                 "members": true,
                 "entrance": {
                     "x": 3408,
-                    "y": 2848,
-                    "plane": 0,
+                    "y": 2847,
+                    "plane": 1,
                     "objectId": 6643
                 }
             },
@@ -12397,8 +12397,8 @@
                 "members": true,
                 "entrance": {
                     "x": 3408,
-                    "y": 2848,
-                    "plane": 0,
+                    "y": 2847,
+                    "plane": 1,
                     "objectId": 6643
                 }
             },
@@ -12410,8 +12410,8 @@
                 "members": true,
                 "entrance": {
                     "x": 3408,
-                    "y": 2848,
-                    "plane": 0,
+                    "y": 2847,
+                    "plane": 1,
                     "objectId": 6643
                 }
             },
@@ -14040,8 +14040,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -14211,8 +14211,8 @@
                 "areaLabel": "Eagles' Peak Dungeon",
                 "members": true,
                 "entrance": {
-                    "x": 2319,
-                    "y": 3503,
+                    "x": 2322,
+                    "y": 3501,
                     "plane": 0,
                     "objectId": 19849
                 }
@@ -14338,8 +14338,8 @@
                 "areaLabel": "Chasm of Fire - lowest level",
                 "members": true,
                 "entrance": {
-                    "x": 1435,
-                    "y": 3668,
+                    "x": 1436,
+                    "y": 3671,
                     "plane": 0,
                     "objectId": 30236
                 }
@@ -14351,8 +14351,8 @@
                 "areaLabel": "Chasm of Fire - lowest level",
                 "members": true,
                 "entrance": {
-                    "x": 1435,
-                    "y": 3668,
+                    "x": 1436,
+                    "y": 3671,
                     "plane": 0,
                     "objectId": 30236
                 }
@@ -14364,8 +14364,8 @@
                 "areaLabel": "Chasm of Fire - lowest level",
                 "members": true,
                 "entrance": {
-                    "x": 1435,
-                    "y": 3668,
+                    "x": 1436,
+                    "y": 3671,
                     "plane": 0,
                     "objectId": 30236
                 }
@@ -14377,8 +14377,8 @@
                 "areaLabel": "Chasm of Fire - lowest level",
                 "members": true,
                 "entrance": {
-                    "x": 1435,
-                    "y": 3668,
+                    "x": 1436,
+                    "y": 3671,
                     "plane": 0,
                     "objectId": 30236
                 }
@@ -14729,8 +14729,8 @@
                 "areaLabel": "Civitas illa Fortis - Thieves hideout (1st floor)",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -14860,8 +14860,8 @@
                 "members": true,
                 "entrance": {
                     "x": 3408,
-                    "y": 2848,
-                    "plane": 0,
+                    "y": 2847,
+                    "plane": 1,
                     "objectId": 6643
                 }
             },
@@ -15023,7 +15023,7 @@
                 "requirement": "Requires 46 Hunter",
                 "entrance": {
                     "x": 1559,
-                    "y": 3048,
+                    "y": 3045,
                     "plane": 0,
                     "objectId": 51643
                 }
@@ -15037,7 +15037,7 @@
                 "requirement": "Requires 46 Hunter",
                 "entrance": {
                     "x": 1559,
-                    "y": 3048,
+                    "y": 3045,
                     "plane": 0,
                     "objectId": 51643
                 }
@@ -15063,7 +15063,7 @@
                 "areaLabel": "Zemouregal's Fort - basement tunnels",
                 "members": true,
                 "entrance": {
-                    "x": 2833,
+                    "x": 2843,
                     "y": 3858,
                     "plane": 0,
                     "objectId": 50503
@@ -15215,8 +15215,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -15677,8 +15677,8 @@
                 "areaLabel": "Civitas illa Fortis 1st floor",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -15771,8 +15771,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -15784,8 +15784,8 @@
                 "areaLabel": "Brittle Isle",
                 "members": true,
                 "entrance": {
-                    "x": 1947,
-                    "y": 4069,
+                    "x": 1944,
+                    "y": 4068,
                     "plane": 0,
                     "objectId": 58596
                 }
@@ -15874,8 +15874,8 @@
                 "areaLabel": "Civitas illa Fortis 1st floor",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -15945,7 +15945,7 @@
                 "requirement": "Requires 46 Hunter",
                 "entrance": {
                     "x": 1559,
-                    "y": 3048,
+                    "y": 3045,
                     "plane": 0,
                     "objectId": 51643
                 }
@@ -16405,8 +16405,8 @@
                 "areaLabel": "Lumbridge Castle cellar",
                 "members": false,
                 "entrance": {
-                    "x": 3204,
-                    "y": 3237,
+                    "x": 3211,
+                    "y": 3242,
                     "plane": 0,
                     "objectId": 16683
                 }
@@ -16425,8 +16425,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -16514,8 +16514,8 @@
                 "areaLabel": "Civitas illa Fortis - Barracks",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -16607,8 +16607,8 @@
                 "areaLabel": "Civitas illa Fortis 1st floor",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -16912,8 +16912,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -16946,8 +16946,8 @@
                 "areaLabel": "East Ardougne - basement of the Carnillean Mansion",
                 "members": true,
                 "entrance": {
-                    "x": 2564,
-                    "y": 3275,
+                    "x": 2568,
+                    "y": 3268,
                     "plane": 0,
                     "objectId": 46704
                 }
@@ -17008,8 +17008,8 @@
                 "areaLabel": "Lumbridge Castle cellar",
                 "members": false,
                 "entrance": {
-                    "x": 3204,
-                    "y": 3237,
+                    "x": 3211,
+                    "y": 3242,
                     "plane": 0,
                     "objectId": 16683
                 }
@@ -17289,8 +17289,8 @@
                 "areaLabel": "Lumbridge Castle cellar",
                 "members": false,
                 "entrance": {
-                    "x": 3204,
-                    "y": 3237,
+                    "x": 3211,
+                    "y": 3242,
                     "plane": 0,
                     "objectId": 16683
                 }
@@ -17302,8 +17302,8 @@
                 "areaLabel": "Lumbridge Castle cellar",
                 "members": false,
                 "entrance": {
-                    "x": 3204,
-                    "y": 3237,
+                    "x": 3211,
+                    "y": 3242,
                     "plane": 0,
                     "objectId": 16683
                 }
@@ -17350,8 +17350,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -17412,8 +17412,8 @@
                 "areaLabel": "Civitas illa Fortis 2nd floor",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -17570,8 +17570,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -17583,8 +17583,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -17596,8 +17596,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -18247,7 +18247,7 @@
                 "requirement": "Requires 46 Hunter",
                 "entrance": {
                     "x": 1559,
-                    "y": 3048,
+                    "y": 3045,
                     "plane": 0,
                     "objectId": 51643
                 }
@@ -18266,8 +18266,8 @@
                 "areaLabel": "Civitas illa Fortis 1st floor",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -18335,8 +18335,8 @@
                 "areaLabel": "Civitas illa Fortis 2nd floor",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -18423,8 +18423,8 @@
                 "areaLabel": "Underground Pass - first level",
                 "members": true,
                 "entrance": {
-                    "x": 2449,
-                    "y": 3312,
+                    "x": 2456,
+                    "y": 3308,
                     "plane": 0,
                     "objectId": 1521
                 }
@@ -18548,8 +18548,8 @@
                 "areaLabel": "Civitas illa Fortis - Sunrise Palace (1st floor)",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -19058,8 +19058,8 @@
                 "areaLabel": "Underground Pass - first level",
                 "members": true,
                 "entrance": {
-                    "x": 2449,
-                    "y": 3312,
+                    "x": 2456,
+                    "y": 3308,
                     "plane": 0,
                     "objectId": 1521
                 }
@@ -19137,8 +19137,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -19374,8 +19374,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -19450,8 +19450,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -20231,8 +20231,8 @@
                 "areaLabel": "Underground Pass - first level fail area",
                 "members": true,
                 "entrance": {
-                    "x": 2449,
-                    "y": 3312,
+                    "x": 2456,
+                    "y": 3308,
                     "plane": 0,
                     "objectId": 1521
                 }
@@ -20244,8 +20244,8 @@
                 "areaLabel": "Underground Pass - first level fail area",
                 "members": true,
                 "entrance": {
-                    "x": 2449,
-                    "y": 3312,
+                    "x": 2456,
+                    "y": 3308,
                     "plane": 0,
                     "objectId": 1521
                 }
@@ -20496,8 +20496,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -20509,8 +20509,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -20522,8 +20522,8 @@
                 "areaLabel": "Civitas illa Fortis (1st floor)",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -20535,8 +20535,8 @@
                 "areaLabel": "Civitas illa Fortis (1st floor)",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -22746,7 +22746,7 @@
                 "areaLabel": "Zemouregal's Fort - basement tunnels",
                 "members": true,
                 "entrance": {
-                    "x": 2833,
+                    "x": 2843,
                     "y": 3858,
                     "plane": 0,
                     "objectId": 50503
@@ -22891,8 +22891,8 @@
                 "areaLabel": "Civitas illa Fortis 1st floor",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -23002,7 +23002,7 @@
                 "areaLabel": "Zemouregal's Fort - basement tunnels",
                 "members": true,
                 "entrance": {
-                    "x": 2833,
+                    "x": 2843,
                     "y": 3858,
                     "plane": 0,
                     "objectId": 50503
@@ -23405,8 +23405,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -23425,8 +23425,8 @@
                 "areaLabel": "Civitas illa Fortis 1st floor",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -23934,8 +23934,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -24016,7 +24016,7 @@
                 "areaLabel": "Zemouregal's Fort - basement tunnels",
                 "members": true,
                 "entrance": {
-                    "x": 2833,
+                    "x": 2843,
                     "y": 3858,
                     "plane": 0,
                     "objectId": 50503
@@ -24083,8 +24083,8 @@
                 "areaLabel": "Civitas illa Fortis - The Flaming Arrow",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -25058,8 +25058,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -25389,8 +25389,8 @@
                 "areaLabel": "Underground Pass dwarf camp",
                 "members": true,
                 "entrance": {
-                    "x": 2449,
-                    "y": 3312,
+                    "x": 2456,
+                    "y": 3308,
                     "plane": 0,
                     "objectId": 1521
                 }
@@ -25402,8 +25402,8 @@
                 "areaLabel": "Civitas illa Fortis",
                 "members": true,
                 "entrance": {
-                    "x": 1725,
-                    "y": 3128,
+                    "x": 1722,
+                    "y": 3130,
                     "plane": 0,
                     "objectId": 52635
                 }
@@ -25731,7 +25731,7 @@
                 "requirement": "Requires 46 Hunter",
                 "entrance": {
                     "x": 1559,
-                    "y": 3048,
+                    "y": 3045,
                     "plane": 0,
                     "objectId": 51643
                 }
@@ -25745,7 +25745,7 @@
                 "requirement": "Requires 46 Hunter",
                 "entrance": {
                     "x": 1559,
-                    "y": 3048,
+                    "y": 3045,
                     "plane": 0,
                     "objectId": 51643
                 }
@@ -25759,7 +25759,7 @@
                 "requirement": "Requires 46 Hunter",
                 "entrance": {
                     "x": 1559,
-                    "y": 3048,
+                    "y": 3045,
                     "plane": 0,
                     "objectId": 51643
                 }
