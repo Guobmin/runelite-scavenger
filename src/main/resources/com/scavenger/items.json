@@ -7641,7 +7641,7 @@
                 "areaLabel": "Dwarven Mines - western end",
                 "members": false,
                 "entrance": {
-                    "x": 3018,
+                    "x": 3019,
                     "y": 3450,
                     "plane": 0,
                     "objectId": 11867
@@ -11166,7 +11166,7 @@
                 "areaLabel": "Dwarven Mine",
                 "members": false,
                 "entrance": {
-                    "x": 3018,
+                    "x": 3019,
                     "y": 3450,
                     "plane": 0,
                     "objectId": 11867
@@ -11179,7 +11179,7 @@
                 "areaLabel": "Dwarven Mine",
                 "members": false,
                 "entrance": {
-                    "x": 3018,
+                    "x": 3019,
                     "y": 3450,
                     "plane": 0,
                     "objectId": 11867
