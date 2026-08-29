@@ -11,6 +11,8 @@ a minimap arrow, a world map arrow, and a world tile highlight.
 - World map marker that blinks and, when the spawn is off-screen, turns into
   an arrow pointing toward it
 - World-overlay tile highlight on the spawn location itself
+- Cave/dungeon spawns route you to the entrance first, then switch to the
+  actual spawn tile once you're inside
 - Free-to-play / members filtering, so F2P accounts aren't pointed at
   members-only spawns (**Account type** setting in the plugin config)
 - Spawn data for 370+ items sourced from the OSRS Wiki
