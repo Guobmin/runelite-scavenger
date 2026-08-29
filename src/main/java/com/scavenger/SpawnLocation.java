@@ -18,5 +18,9 @@ class SpawnLocation
 		int x;
 		int y;
 		int plane;
+		// Nullable — set only when the exact entrance object has been verified
+		// in-game (e.g. via RuneLite Dev Tools). When absent, the overlay falls
+		// back to a generic trapdoor-name search near the curated tile.
+		Integer objectId;
 	}
 }

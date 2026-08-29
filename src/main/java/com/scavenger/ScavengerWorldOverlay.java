@@ -68,7 +68,7 @@ class ScavengerWorldOverlay extends Overlay
 		Shape highlight;
 		if (atEntrance)
 		{
-			highlight = findEntranceObjectShape(client, worldPoint.getPlane(), localPoint);
+			highlight = findEntranceObjectShape(client, worldPoint.getPlane(), localPoint, result.location.entrance.objectId);
 		}
 		else if (item != null && item.isObject())
 		{
@@ -99,7 +99,7 @@ class ScavengerWorldOverlay extends Overlay
 	// the curated tile itself if nothing trapdoor-shaped is nearby.
 	private static final int ENTRANCE_SEARCH_RADIUS = 2;
 
-	private static Shape findEntranceObjectShape(Client client, int plane, LocalPoint localPoint)
+	private static Shape findEntranceObjectShape(Client client, int plane, LocalPoint localPoint, Integer objectId)
 	{
 		Tile[][][] planes = client.getTopLevelWorldView().getScene().getTiles();
 		Tile[][] tiles = planes[plane];
@@ -122,7 +122,13 @@ class ScavengerWorldOverlay extends Overlay
 						continue;
 					}
 
-					Shape clickbox = findTrapdoorShape(client, tiles[x][y]);
+					// Prefer an exact, in-game-verified object id (same approach as
+					// Quest Helper's ObjectStep) over the generic trapdoor-name guess -
+					// entrances like a volcano's "Rocks" climb-down aren't named
+					// anything a name search could safely recognise.
+					Shape clickbox = objectId != null
+						? findObjectByIdShape(client, tiles[x][y], objectId)
+						: findTrapdoorShape(client, tiles[x][y]);
 					if (clickbox != null)
 					{
 						return clickbox;
@@ -132,6 +138,72 @@ class ScavengerWorldOverlay extends Overlay
 		}
 
 		return findObjectShape(tiles[localPoint.getSceneX()][localPoint.getSceneY()]);
+	}
+
+	private static boolean matchesObjectId(Client client, int candidateId, int wantedId)
+	{
+		if (candidateId == wantedId)
+		{
+			return true;
+		}
+
+		ObjectComposition comp = client.getObjectDefinition(candidateId);
+		if (comp == null || comp.getImpostorIds() == null)
+		{
+			return false;
+		}
+
+		ObjectComposition impostor = comp.getImpostor();
+		return impostor != null && impostor.getId() == wantedId;
+	}
+
+	private static Shape findObjectByIdShape(Client client, Tile tile, int objectId)
+	{
+		if (tile == null)
+		{
+			return null;
+		}
+
+		for (GameObject gameObject : tile.getGameObjects())
+		{
+			if (gameObject != null && matchesObjectId(client, gameObject.getId(), objectId))
+			{
+				Shape clickbox = gameObject.getClickbox();
+				if (clickbox != null)
+				{
+					return clickbox;
+				}
+			}
+		}
+
+		if (tile.getWallObject() != null && matchesObjectId(client, tile.getWallObject().getId(), objectId))
+		{
+			Shape clickbox = tile.getWallObject().getClickbox();
+			if (clickbox != null)
+			{
+				return clickbox;
+			}
+		}
+
+		if (tile.getGroundObject() != null && matchesObjectId(client, tile.getGroundObject().getId(), objectId))
+		{
+			Shape clickbox = tile.getGroundObject().getClickbox();
+			if (clickbox != null)
+			{
+				return clickbox;
+			}
+		}
+
+		if (tile.getDecorativeObject() != null && matchesObjectId(client, tile.getDecorativeObject().getId(), objectId))
+		{
+			Shape clickbox = tile.getDecorativeObject().getClickbox();
+			if (clickbox != null)
+			{
+				return clickbox;
+			}
+		}
+
+		return null;
 	}
 
 	// Trapdoor object ids are re-minted per region (open/closed/locked variants
