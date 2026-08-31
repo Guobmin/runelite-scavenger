@@ -36,10 +36,8 @@ import net.runelite.client.util.ImageUtil;
 )
 public class ScavengerPlugin extends Plugin
 {
-	private static final int WORLD_MAP_MARKER_SIZE = 14;
-	private static final int WORLD_MAP_ARROW_SIZE = 22;
-	private static final BufferedImage WORLD_MAP_MARKER_HIDDEN = new BufferedImage(
-		WORLD_MAP_MARKER_SIZE, WORLD_MAP_MARKER_SIZE, BufferedImage.TYPE_INT_ARGB);
+	private static final int WORLD_MAP_MARKER_SIZE = 22;
+	private static final int WORLD_MAP_ARROW_SIZE = 34;
 
 	@Inject
 	private Client client;
@@ -122,8 +120,9 @@ public class ScavengerPlugin extends Plugin
 	// every tick), so a highlightColor config change won't retint it until the
 	// target relocates - not worth the extra bookkeeping. Every tick we still
 	// pick dot-vs-arrow based on the core's edge-snap state (one tick of lag,
-	// since it's updated during render which runs after this) and swap in the
-	// blank image to blink, matching the minimap arrow's cadence.
+	// since it's updated during render which runs after this). Unlike the
+	// minimap arrow, the world map marker doesn't blink - it's small and easy
+	// to lose on the world map otherwise.
 	private void updateWorldMapPoint()
 	{
 		NearestLocationFinder.Result result = targetManager.getActiveResult();
@@ -137,8 +136,7 @@ public class ScavengerPlugin extends Plugin
 			return;
 		}
 
-		SpawnLocation loc = result.location;
-		WorldPoint worldPoint = new WorldPoint(loc.x, loc.y, loc.plane);
+		WorldPoint worldPoint = result.navTarget;
 		if (worldMapPoint == null || !worldMapPoint.getWorldPoint().equals(worldPoint))
 		{
 			if (worldMapPoint != null)
@@ -157,10 +155,9 @@ public class ScavengerPlugin extends Plugin
 			worldMapPointManager.add(worldMapPoint);
 		}
 
-		BufferedImage image = worldMapPoint.isCurrentlyEdgeSnapped()
+		worldMapPoint.setImage(worldMapPoint.isCurrentlyEdgeSnapped()
 			? arrowImage(config.highlightColor(), worldMapArrowAngle(worldPoint))
-			: worldMapDotImage;
-		worldMapPoint.setImage(minimapOverlay.isFlashOn() ? image : WORLD_MAP_MARKER_HIDDEN);
+			: worldMapDotImage);
 	}
 
 	private double worldMapArrowAngle(WorldPoint worldPoint)
