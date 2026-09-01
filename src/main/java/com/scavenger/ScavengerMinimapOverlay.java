@@ -79,6 +79,11 @@ class ScavengerMinimapOverlay extends Overlay
 		currentTick = (currentTick + 1) % FLASH_PERIOD_TICKS;
 	}
 
+	boolean isFlashOn()
+	{
+		return currentTick < FLASH_PERIOD_TICKS / 2;
+	}
+
 	/**
 	 * Finds where the target direction crosses the rim of the actual minimap widget, so the
 	 * arrow always sits at the visible edge of the minimap regardless of zoom level.

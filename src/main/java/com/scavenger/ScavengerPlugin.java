@@ -36,8 +36,10 @@ import net.runelite.client.util.ImageUtil;
 )
 public class ScavengerPlugin extends Plugin
 {
-	private static final int WORLD_MAP_MARKER_SIZE = 22;
+	private static final int WORLD_MAP_MARKER_SIZE = 14;
 	private static final int WORLD_MAP_ARROW_SIZE = 34;
+	private static final BufferedImage WORLD_MAP_MARKER_HIDDEN = new BufferedImage(
+		WORLD_MAP_MARKER_SIZE, WORLD_MAP_MARKER_SIZE, BufferedImage.TYPE_INT_ARGB);
 
 	@Inject
 	private Client client;
@@ -120,9 +122,10 @@ public class ScavengerPlugin extends Plugin
 	// every tick), so a highlightColor config change won't retint it until the
 	// target relocates - not worth the extra bookkeeping. Every tick we still
 	// pick dot-vs-arrow based on the core's edge-snap state (one tick of lag,
-	// since it's updated during render which runs after this). Unlike the
-	// minimap arrow, the world map marker doesn't blink - it's small and easy
-	// to lose on the world map otherwise.
+	// since it's updated during render which runs after this). The dot blinks
+	// (matching the minimap arrow's cadence) since it's small and easy to lose
+	// on the world map; the off-screen arrow stays solid since it's already a
+	// directional indicator and losing it defeats the point.
 	private void updateWorldMapPoint()
 	{
 		NearestLocationFinder.Result result = targetManager.getActiveResult();
@@ -155,9 +158,14 @@ public class ScavengerPlugin extends Plugin
 			worldMapPointManager.add(worldMapPoint);
 		}
 
-		worldMapPoint.setImage(worldMapPoint.isCurrentlyEdgeSnapped()
-			? arrowImage(config.highlightColor(), worldMapArrowAngle(worldPoint))
-			: worldMapDotImage);
+		if (worldMapPoint.isCurrentlyEdgeSnapped())
+		{
+			worldMapPoint.setImage(arrowImage(config.highlightColor(), worldMapArrowAngle(worldPoint)));
+		}
+		else
+		{
+			worldMapPoint.setImage(minimapOverlay.isFlashOn() ? worldMapDotImage : WORLD_MAP_MARKER_HIDDEN);
+		}
 	}
 
 	private double worldMapArrowAngle(WorldPoint worldPoint)
