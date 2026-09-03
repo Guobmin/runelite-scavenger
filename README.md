@@ -91,6 +91,12 @@ against every item in-game yet, so some spawns may be missing or wrong.
 Found a bug, a missing item, or have a suggestion?
 [Open an issue](https://github.com/guobmin/runelite-scavenger/issues/new).
 
+If you're reporting a tracking/navigation bug (e.g. the arrow points somewhere
+that doesn't match the item), check `.runelite/scavenger/debug.log` first —
+Scavenger writes a line there whenever it rules out a spawn location it
+expected to find the item at. Attaching it to your issue helps a lot; it's
+plain text and doesn't contain anything beyond item IDs and coordinates.
+
 ## License
 
 BSD-2-Clause.
